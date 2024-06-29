@@ -32,17 +32,18 @@ h1 {
   font-size: 44Q;
   line-height: 50Q;
   margin-block-start: 57mm;
-  text-align: center;
+  text-align: start;
   counter-reset: section-counter 0;
   string-set: chapter-title content(), chapter-number content(before);
 }
 /* 著者名 */
 .author {
-  text-align: right;
+  text-align: end;
   font-size: 16Q;
   /* text-indent: 0; */
   /* 縦書きにして自由位置に移動 */
-  /* writing-mode: vertical-rl; */
+  writing-mode: vertical-rl;
+  font-family: "筑紫A丸ゴシック";
   /* position: static; */
   /* inset-block-start: 70mm; */
   /* inset-inline-start: 120mm; */
@@ -74,7 +75,7 @@ h1 {
 
 /* 節 */
 h2 {
-  text-align: center;
+  text-align: start;
   break-before: page;
   font-size: 18Q;
   line-height: 42Q;

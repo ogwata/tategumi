@@ -23,19 +23,19 @@
   /* 基本体裁 */
   writing-mode: vertical-rl;
   --base-font-size: 14Q;
-  --base-line-height: 24.5Q;
-  --page-width: 210mm;
-  --page-height: 297mm;
-  --letters-per-line: 44.5;
-  --lines-per-page: 43;
-  --page-margin-top: 16mm; /*天地マージンは天のみ指定できる。地は自動計算*/
+  --base-line-height: 24Q;
+  --page-width: 128mm;
+  --page-height: 182mm;
+  --letters-per-line: 24.6;
+  --lines-per-page: 25;
+  --page-margin-top: 18mm; /*天地マージンは天のみ指定できる。地は自動計算*/
   --page-margin-xshift: 0mm; /*左右マージンはデフォルト左右均等。xshift値でずらす*/
   --column-font-size: 14Q; /*コラムのフォントサイズ*/
   /* フォント指定 */
   /* --main-text-font: 'Shippori Mincho'; メインフォント */
   /* --main-text-font: "Noto Sans JP"; */
-  --main-text-font: "Noto Serif JP";
-  --header-font: "Noto Serif JP";
+  --main-text-font: "YuMincho02-R", sans-serif;
+  --header-font: "dnp-shuei-mincho-pr6", sans-serif;
   /* --header-font: "Zen Maru Gothic"; */
 
 
@@ -99,6 +99,7 @@
   margin-inline-end: calc(var(--page-inline-margin) + var(--page-margin-xshift));
   /* ノンブル */
   @bottom-center {
+    text-combine-upright: all;
     font-size: 14Q;
     content: counter(page);
     counter-reset: number 0;
