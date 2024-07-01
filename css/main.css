@@ -39,7 +39,8 @@ h1 {
 /* 著者名 */
 .author {
   text-align: end;
-  font-size: 16Q;
+  font-size: 20Q;
+  font-weight: 600;
   /* text-indent: 0; */
   /* 縦書きにして自由位置に移動 */
   writing-mode: vertical-rl;
@@ -77,10 +78,12 @@ h1 {
 h2 {
   text-align: start;
   break-before: page;
-  font-size: 18Q;
+  font-family: "DNP秀英初号明朝Std", sans-serif;
+  font-size: 28Q;
   line-height: 42Q;
+  font-feature-settings: "palt";
   /* inline-size: 10em; */
-  block-size: 3rlh;
+  block-size: 4rlh;
   /* margin-block: 4mm 11mm; */
   /* margin-inline-start: 20mm; */
   /* margin-inline-start: 15mm; */
