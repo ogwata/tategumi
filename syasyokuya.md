@@ -81,7 +81,7 @@ lang: 'ja'
 
 「テンとかマルがあるとずれちゃうから、そういうのがなるべくない行を探すといいよ」
 
-私は『<span style="text-combine-upright: all">P</span>』をめくっていくと、片端から級数表を当てていった。そうか、本の文字ってみんなこうやって作られていたんだ。まるで世界の秘密を教えてもらったようで、私はワクワクした。やがて村石さんは、机の上に立てかけられていた大き目の茶封筒を抜きとった。
+私は『<span style="text-combine-upright: all">P</span>』をめくっていくと、片端から級数表を当てていった。すごい、すごい。写植って機械みたいに精密なんだ。そんな私を見ながら、やがて村石さんは自分の机の上に立てかけられていた大きい茶封筒を抜きとった。
 
 「この封筒は、さっき写植屋さんから受け取ってきたものだけど……」
 
@@ -96,3 +96,14 @@ lang: 'ja'
 原稿用紙の何も書かれていない部分には、赤鉛筆で〈<span style="text-combine-upright: all">M</span>、<span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">Q</span><span style="text-combine-upright: all">12</span><span style="text-combine-upright: all">H</span>、<span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">L</span>＝<span style="text-combine-upright: all">18</span><span style="text-combine-upright: all">W</span>〉と書かれてあった。なんだこの暗号は。
 
 「この〈<span style="text-combine-upright: all">M</span>〉というのが文字の種類で明朝体の〈<span style="text-combine-upright: all">M</span>〉。〈<span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">Q</span>〉というのは文字サイズが九級ということで、級を早く書くために〈</span><span style="text-combine-upright: all">Q</span>〉にしている。〈<span style="text-combine-upright: all">12</span><span style="text-combine-upright: all">H</span>〉というのは行間十二歯で、やはり歯を早く書くために〈</span><span style="text-combine-upright: all">H</span>〉にしているんだ。〈<span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">L</span>＝<span style="text-combine-upright: all">18</span><span style="text-combine-upright: all">W</span>〉というのは〈<span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">L</span>＝〉が一行当たりという意味で、〈<span style="text-combine-upright: all">18</span><span style="text-combine-upright: all">W</span>〉が十八文字、つまり〈一行十八文字の字詰めで打つ〉という意味。この文字の種類、級数、行間、字詰めの四つさえ指定すれば、写植屋さんは文章を打ってくれる」
+
+そうか、本の文字ってみんなこうやって作られていたんだ。まるで世界の秘密を教えてもらったようで、私はワクワクした。
+
+### 一九八一年七月、新宿二丁目・ラポートピアビル
+
+目が覚めたら朝九時半だった。
+
+「しまった！」
+
+あわてて起きた私は
+
