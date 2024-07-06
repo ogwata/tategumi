@@ -97,7 +97,21 @@ lang: 'ja'
 
 「この〈<span style="text-combine-upright: all">M</span>〉というのが文字の種類で明朝体の〈<span style="text-combine-upright: all">M</span>〉。〈<span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">Q</span>〉というのは文字サイズが九級ということで、級を早く書くために〈</span><span style="text-combine-upright: all">Q</span>〉にしている。〈<span style="text-combine-upright: all">12</span><span style="text-combine-upright: all">H</span>〉というのは行間十二歯で、やはり歯を早く書くために〈</span><span style="text-combine-upright: all">H</span>〉にしているんだ。〈<span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">L</span>＝<span style="text-combine-upright: all">18</span><span style="text-combine-upright: all">W</span>〉というのは〈<span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">L</span>＝〉が一行当たりという意味で、〈<span style="text-combine-upright: all">18</span><span style="text-combine-upright: all">W</span>〉が十八文字、つまり〈一行十八文字の字詰めで打つ〉という意味。この文字の種類、級数、行間、字詰めの四つさえ指定すれば、写植屋さんは文章を打ってくれる」
 
-そうか、いつも読んでいる本の文字って、みんなこうやって作られていたのか。まるで世界の秘密を教えてもらったようで、私はワクワクした。
+そうか、いつも読んでいる本や雑誌の文字って、全部こうやって作られていたのか。まるで世界の秘密を教えてもらったようで、私はワクワクした。
+
+### 一九八一年一月、北新宿一丁目、駒津写植
+
+「小形くん、お使い頼める？」
+
+佐野さんが向こうの机から呼びかけた。
+
+「はい」
+
+佐野さんの頼みならよろこんで、心の中でそうつぶやいて駆け寄る。佐野さんは『<span style="text-combine-upright: all">P</span>』の表紙デザインを担当するデザイナーだ。すらりとした美しい人で、私達スタッフはみんな憧れの目で見ていた。ところが編集長の奥さんであり、なぜ
+
+いつも不機嫌な編集長には出来すぎ——というのが周囲の一致した評だった。じつは二人は幼馴染みで、ずっと若い頃に編集長が拝み倒して一緒になったという噂だ。
+
+
 
 ### 一九八一年七月、新宿二丁目・ラポートピアビル
 
