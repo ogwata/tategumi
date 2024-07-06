@@ -33,7 +33,7 @@ lang: 'ja'
 
 「ウチに限らず、どんな雑誌も版下といって、この誌面そっくりの雛形を作り、それを印刷しているんだ。ウチは記事の担当者が自分で版下制作することになっているから、まずその作り方を覚えないといけない。でも版下を作るには向き不向きもあるんで……」
 
-そう言って村石さんは、私のことを探るように見た。
+そう言って村木さんは、私のことを探るように見た。
 
 「ひとまず今日は、版下を作るために必要な、写植の出し方から覚えてもらうね」
 
@@ -81,7 +81,7 @@ lang: 'ja'
 
 「テンとかマルがあるとずれちゃうから、そういうのがなるべくない行を探すといいよ」
 
-私は『<span style="text-combine-upright: all">P</span>』をめくっていくと、片端から級数表を当てていった。すごい、すごい。写植って機械みたいに精密なんだ。そんな私を見ながら、やがて村石さんは自分の机の上に立てかけられていた大きい茶封筒を抜きとった。
+私は『<span style="text-combine-upright: all">P</span>』をめくっていくと、片端から級数表を当てていった。すごい、すごい。写植って機械みたいに精密なんだ。そんな私を見ながら、やがて村木さんは自分の机の上に立てかけられていた大きい茶封筒を抜きとった。
 
 「この封筒は、さっき写植屋さんから受け取ってきたものだけど……」
 
@@ -97,7 +97,7 @@ lang: 'ja'
 
 「この〈<span style="text-combine-upright: all">M</span>〉というのが文字の種類で明朝体の〈<span style="text-combine-upright: all">M</span>〉。〈<span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">Q</span>〉というのは文字サイズが九級ということで、級を早く書くために〈</span><span style="text-combine-upright: all">Q</span>〉にしている。〈<span style="text-combine-upright: all">12</span><span style="text-combine-upright: all">H</span>〉というのは行間十二歯で、やはり歯を早く書くために〈</span><span style="text-combine-upright: all">H</span>〉にしているんだ。〈<span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">L</span>＝<span style="text-combine-upright: all">18</span><span style="text-combine-upright: all">W</span>〉というのは〈<span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">L</span>＝〉が一行当たりという意味で、〈<span style="text-combine-upright: all">18</span><span style="text-combine-upright: all">W</span>〉が十八文字、つまり〈一行十八文字の字詰めで打つ〉という意味。この文字の種類、級数、行間、字詰めの四つさえ指定すれば、写植屋さんは文章を打ってくれる」
 
-そうか、本の文字ってみんなこうやって作られていたんだ。まるで世界の秘密を教えてもらったようで、私はワクワクした。
+そうか、いつも読んでいる本の文字って、みんなこうやって作られていたのか。まるで世界の秘密を教えてもらったようで、私はワクワクした。
 
 ### 一九八一年七月、新宿二丁目・ラポートピアビル
 
