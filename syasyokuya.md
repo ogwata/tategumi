@@ -49,9 +49,9 @@ lang: 'ja'
 
 「これが級数表。写植の大きさとか行間を測るもの」
 
-よく見ると、縦長の級数表の上端に右から左に〈<span style="text-combine-upright: all">9</span>〉〈<span style="text-combine-upright: all">10</span>〉〈<span style="text-combine-upright: all">11</span>〉〈<span style="text-combine-upright: all">12</span>〉……と番号が印刷されていて、その番号のすぐ下に同じサイズの升目がずらっと下端まで伸びている。番号の最初の方は順番に一つずつ増えていくが、途中から二つ飛ばし四つ飛ばしになり、最後の方は〈<span style="text-combine-upright: all">32</span>〉〈<span style="text-combine-upright: all">38</span>〉〈<span style="text-combine-upright: all">44</span>〉……となり、左端は〈<span style="text-combine-upright: all">62</span>〉だ。
+よく見ると、縦長の級数表の上端に右から左に〈<span style="text-combine-upright: all">7</span>〉〈<span style="text-combine-upright: all">8</span>〉〈<span style="text-combine-upright: all">9</span>〉〈<span style="text-combine-upright: all">10</span>〉〈</span><span style="text-combine-upright: all">11</span>〉……と番号が印刷されていて、その番号のすぐ下に同じサイズの升目がずらっと下端まで伸びている。番号の最初の方は順番に一つずつ増えていくが、途中から二つ飛ばし四つ飛ばしになり、最後の方は〈<span style="text-combine-upright: all">32</span>〉〈<span style="text-combine-upright: all">38</span>〉〈<span style="text-combine-upright: all">44</span>〉……となり、左端は〈<span style="text-combine-upright: all">62</span>〉だ。
 
-「〈<span style="text-combine-upright: all">9</span>〉というのは九級、〈<span style="text-combine-upright: all">50</span>〉は五十級というサイズで、その横に並んでいる升目がそのサイズの原寸なんだ。たとえばね……」
+「たとえば〈<span style="text-combine-upright: all">9</span>〉というのは九級、〈<span style="text-combine-upright: all">50</span>〉は五十級というサイズで、その横に並んでいる升目がそのサイズの原寸なんだ。たとえばね……」
 
 そう言うと、村木さんは級数表を本文の上に当てた。しばらく級数表を両手で細かく動かした後、動かないようにぴったり抑えながら言った。
 
@@ -59,9 +59,9 @@ lang: 'ja'
 
 なんだろう。私は腰を浮かして村木さんの手元を覗き込む。見ると一ページ四段で組まれた本文のうち、一番上の段に級数表が重ねられている。
 
-「最初の一行目を見て」
+「最初の一行目」
 
-本文冒頭の行が升目の四角にぴたりと収まって、まるで原稿用紙のように下の文字が読める。升目の上には〈<span style="text-combine-upright: all">9</span>〉と書かれている。ところがすぐ隣の〈<span style="text-combine-upright: all">10</span>〉の列の升目は、最初は文字と合っているのに行末に行くほどずれが拡がってよく読めない。
+本文冒頭の行を見ると、升目の四角にぴたりと収まってまるで原稿用紙のように下の文字が読める。升目の上には〈<span style="text-combine-upright: all">9</span>〉と書かれている。ところがすぐ隣の〈<span style="text-combine-upright: all">10</span>〉の列の升目は、最初は文字と合っているのに行末に行くほどずれが拡がってよく読めない。
 
 「ぴったり合っているのは九級の升目だから、文字サイズは九級というわけ。それだけじゃなくて字詰め、一行あたりの文字数も測ることができるでしょ？」
 
@@ -81,7 +81,7 @@ lang: 'ja'
 
 「テンとかマルがあるとずれちゃうから、そういうのがなるべくない行を探すといいよ」
 
-私は『<span style="text-combine-upright: all">P</span>』をめくっていくと、片端から級数表を当てていった。すごい、すごい。写植って機械みたいに精密なんだ。そんな私を見ながら、やがて村木さんは自分の机の上に立てかけられていた大きい茶封筒を抜きとった。
+私は『<span style="text-combine-upright: all">P</span>』をめくっていくと、片端から級数表を当てていった。そうか、いつも読んでいる本や雑誌の文字って、全部こうやって作られていたのか。まるで世界の秘密を教えてもらったようで、私はワクワクした。そんな私を見ながら、やがて村木さんは自分の机の上に立てかけられていた大きい茶封筒を抜きとった。
 
 「この封筒は、さっき写植屋さんから受け取ってきたものだけど……」
 
@@ -95,21 +95,27 @@ lang: 'ja'
 
 原稿用紙の何も書かれていない部分には、赤鉛筆で〈<span style="text-combine-upright: all">M</span>、<span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">Q</span><span style="text-combine-upright: all">12</span><span style="text-combine-upright: all">H</span>、<span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">L</span>＝<span style="text-combine-upright: all">18</span><span style="text-combine-upright: all">W</span>〉と書かれてあった。なんだこの暗号は。
 
-「この〈<span style="text-combine-upright: all">M</span>〉というのが文字の種類で明朝体の〈<span style="text-combine-upright: all">M</span>〉。〈<span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">Q</span>〉というのは文字サイズが九級ということで、級を早く書くために〈</span><span style="text-combine-upright: all">Q</span>〉にしている。〈<span style="text-combine-upright: all">12</span><span style="text-combine-upright: all">H</span>〉というのは行間十二歯で、やはり歯を早く書くために〈</span><span style="text-combine-upright: all">H</span>〉にしているんだ。〈<span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">L</span>＝<span style="text-combine-upright: all">18</span><span style="text-combine-upright: all">W</span>〉というのは〈<span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">L</span>＝〉が一行当たりという意味で、〈<span style="text-combine-upright: all">18</span><span style="text-combine-upright: all">W</span>〉が十八文字、つまり〈一行十八文字の字詰めで打つ〉という意味。この文字の種類、級数、行間、字詰めの四つさえ指定すれば、写植屋さんは文章を打ってくれる」
+「この〈<span style="text-combine-upright: all">M</span>〉というのが文字の種類で明朝体の〈<span style="text-combine-upright: all">M</span>〉。〈<span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">Q</span>〉というのは文字サイズが九級ということで、級を早く書くために〈</span><span style="text-combine-upright: all">Q</span>〉にしている。〈<span style="text-combine-upright: all">12</span><span style="text-combine-upright: all">H</span>〉というのは行間十二歯で、やはり歯を早く書くために〈</span><span style="text-combine-upright: all">H</span>〉にしているんだ。〈<span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">L</span>＝<span style="text-combine-upright: all">18</span><span style="text-combine-upright: all">W</span>〉というのは〈<span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">L</span>＝〉が一行当たりという意味で、〈<span style="text-combine-upright: all">18</span><span style="text-combine-upright: all">W</span>〉が十八文字、つまり〈一行十八文字の字詰めで打つ〉という意味。この文字の種類、級数、行間、字詰めの四つさえ指定すれば、写植屋さんは文章を打ってくれるんだ」
 
-そうか、いつも読んでいる本や雑誌の文字って、全部こうやって作られていたのか。まるで世界の秘密を教えてもらったようで、私はワクワクした。
+「四つさえ……」
+
+「そう。ついでに言うと、うちは情報とかコラムみたいに短い文章は<span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">Q</span><span style="text-combine-upright: all">12</span><span style="text-combine-upright: all">H</span>、長めの評論は<span style="text-combine-upright: all">10</span><span style="text-combine-upright: all">Q</span><span style="text-combine-upright: all">15</span><span style="text-combine-upright: all">H</span>だからね」
+
+「キュウキュウジュウニハとジュッキュー・ジュウゴハ……」
+
+なんか呪文みたい。そうか、世界の秘密を開ける呪文なんだな。私は忘れないように、頭の中でキュウキュウジュウニハ、ジュッキュー・ジュウゴハと繰り返した。
 
 ### 一九八一年二月、北新宿一丁目、駒津写植
 
 「小形くん、お使い頼める？」
 
-佐野さんが向こうの机から呼びかけた。
+佐野さんが奥の机から呼びかけた。
 
 「はい」
 
-佐野さんの頼みならよろこんで、心の中でそうつぶやいて駆け寄る。佐野さんは『<span style="text-combine-upright: all">P</span>』の表紙デザインを担当するデザイナーだ。すらりとした美しい人だが、残念ながら編集長の奥さんだ。
+佐野さんの頼みならよろこんで、心の中でそうつぶやいて駆け寄る。佐野さんは毎号『<span style="text-combine-upright: all">P</span>』の表紙を担当しているデザイナーだ。すらりとした美しい人だが、残念ながら編集長の奥さんだ。
 
-あの、いつも不機嫌で怒鳴ってばかりいる編集長が、どうやって佐野さんを口説いたのだろう。ある日疑問に思って事情通の同僚山ちゃんに聞いたら、じつは二人は幼馴染みで、ずっと若い頃に編集長が拝み倒して一緒になったんだよね、としたり顔で教えてくれた。そばで聞いていたラブコメ好きの女子大生芝ちゃんは「断り切れなかったのね——」とため息をついた。
+佐野さんはどうして、あの、いつも不機嫌で怒鳴ってばかりいる編集長と結婚したのだろう。ある日疑問に思って、数年前から編集部に出入りしている高校中退の山ちゃんに聞いたら、二人は幼馴染みで、ずっと若い頃に編集長が拝み倒して一緒になったらしい、と教えてくれた。そばで聞いていたラブコメと時代劇好きの女子大生芝ちゃんは「断り切れなかったのね——」とため息をついた。
 
 
 
