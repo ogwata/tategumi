@@ -39,7 +39,7 @@ lang: 'ja'
 
 「写植……？」
 
-「うん、版下の文字の部分を写植という。原稿を写植屋さんに持って行って、それを写植機という大きな機械で打ってもらい、打ち上がった写植をきれいに切り抜いて版下用紙に貼っていくんだ」
+「うん、版下の文字の部分を写植というんだ。原稿を写植屋さんに持って行って、それを写植機という大きな機械で打ってもらい、打ち上がった写植をきれいに切り抜いて版下用紙に貼っていく」
 
 そう言うと、開いた『<span style="text-combine-upright: all">P</span>』の本文の部分を指さすと言った。
 
@@ -61,7 +61,7 @@ lang: 'ja'
 
 「最初の一行目」
 
-本文冒頭の行を見ると、升目の四角にぴたりと収まってまるで原稿用紙のように下の文字が読める。升目の上には〈<span style="text-combine-upright: all">9</span>〉と書かれている。ところがすぐ隣の〈<span style="text-combine-upright: all">10</span>〉の列の升目は、最初は文字と合っているのに行末に行くほどずれが拡がってよく読めない。
+言われて本文冒頭の行を見ると、升目の四角にぴたりと収まってまるで原稿用紙のように下の文字が読める。升目の列の上には〈<span style="text-combine-upright: all">9</span>〉と書かれている。ところがすぐ隣の〈<span style="text-combine-upright: all">10</span>〉の列は、最初は文字と合っているのに行末に行くほどずれが拡がってよく読めない。
 
 「ぴったり合っているのは九級の升目だから、文字サイズは九級というわけ。それだけじゃなくて字詰め、一行あたりの文字数も測ることができるでしょ？」
 
@@ -71,27 +71,27 @@ lang: 'ja'
 
 村木さんは、級数表をそのまま九十度動かすと、また両手で文字に合わせて細かく動かした後、級数表を固定して言った。
 
-「ほら見て」
+「ほら」
 
 今度は本文の各行頭一文字目を横断するように級数表が当てられている。みると、十二級の升目に行頭の文字がぴったり合っている。すごい、一枚の級数表でいろんなことができるんだ。
 
-「行と行の間隔を行間といい、単位を歯で表す。この本文の行間は十二歯というわけ。分かるかな、ちょっと自分でもやってみて」
+「行と行の間隔を行間といい、単位を歯で表す。歯というのは写植機に組み込まれている歯車からきているらしい。ちなみに、級と歯は同じだけど、文字サイズを表す時だけ、歯ではなく級を使う。分かるかな、ちょっと自分でも測ってみて」
 
 そう言って村木さんは私に『<span style="text-combine-upright: all">P</span>』と級数表を渡した。
 
 「テンとかマルがあるとずれちゃうから、そういうのがなるべくない行を探すといいよ」
 
-私は『<span style="text-combine-upright: all">P</span>』をめくっていくと、片端から級数表を当てていった。そうか、いつも読んでいる本や雑誌の文字って、全部こうやって作られていたのか。まるで世界の秘密を教えてもらったようで、私はワクワクした。そんな私を見ながら、やがて村木さんは自分の机の上に立てかけられていた大きい茶封筒を抜きとった。
+私は『<span style="text-combine-upright: all">P</span>』をめくっていくと、片端から級数表を当てていった。そうか、今まで知らなかったけど、いつも読んでいる本や雑誌の文字って、全部こうやって作られていたんだ。私はワクワクした。なんか世界の秘密を教えてもらったみたいだ。そんな私を見ながら、やがて村木さんは自分の机の上に立てかけられていた大きい茶封筒を抜きとった。
 
-「この封筒は、さっき写植屋さんから受け取ってきたものだけど……」
+「これはさっき写植屋さんからもらってきたものだけど……」
 
 中から表面がツルツルした厚手の白い紙を取り出して言った。
 
-「これが写植」
+「写植っていうのは、これ」
 
-そこには小さな文字が一定の字詰めで印字されている。村木さんはそれを机の上に置くと、今度は封筒から十枚ほどの原稿用紙の束を取り出して、写植の隣に置いた。
+そこには小さな文字が一定の字詰めで、全体が四角い箱のように印字されている。そう、いつも私が読んでいた雑誌の本文そのものだ。村木さんは写植を机の上に置くと、今度は封筒から十枚ほどの原稿用紙の束を取り出して、隣に置いた。
 
-「この原稿用紙を元にして写植屋さんが打ったんだけど、ほら、原稿用紙の余白を見て、赤鉛筆で何か書いてあるでしょ。これは僕が書き込んだ写植指定で、文字の種類、級数、行間、字詰めなんかを指定してあるの」
+「これは写植の元になった原稿。ほら、原稿用紙の余白を見て、赤鉛筆で何か書いてあるでしょ。これは僕が書き込んだ写植指定で、文字の種類、級数、行間、字詰めなんかを指定してあるの」
 
 原稿用紙の何も書かれていない部分には、赤鉛筆で〈<span style="text-combine-upright: all">M</span>、<span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">Q</span><span style="text-combine-upright: all">12</span><span style="text-combine-upright: all">H</span>、<span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">L</span>＝<span style="text-combine-upright: all">18</span><span style="text-combine-upright: all">W</span>〉と書かれてあった。なんだこの暗号は。
 
@@ -99,11 +99,11 @@ lang: 'ja'
 
 「四つさえ……」
 
-「そう。ついでに言うと、うちは情報とかコラムみたいに短い文章は<span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">Q</span><span style="text-combine-upright: all">12</span><span style="text-combine-upright: all">H</span>、長めの評論は<span style="text-combine-upright: all">10</span><span style="text-combine-upright: all">Q</span><span style="text-combine-upright: all">15</span><span style="text-combine-upright: all">H</span>だからね」
+「そう。ついでに言うと、うちは情報とかコラムみたいに短い文章は<span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">Q</span><span style="text-combine-upright: all">12</span><span style="text-combine-upright: all">H</span>、評論みたいに長めの文章は<span style="text-combine-upright: all">10</span><span style="text-combine-upright: all">Q</span><span style="text-combine-upright: all">15</span><span style="text-combine-upright: all">H</span>だからね」
 
 「キュウキュウ・ジュウニハとジュッキュー・ジュウゴハ……」
 
-なんか呪文みたい。そうか、世界の秘密を開ける呪文なんだな。私は忘れないように、頭の中でキュウキュウ・ジュウニハ、ジュッキュー・ジュウゴハと繰り返した。
+初めて聞く珍しい言葉の響き、まるで呪文みたいだ。そうか、秘密の扉を開ける呪文なんだな。私は忘れないように、頭の中でキュウキュウ・ジュウニハ、ジュッキュー・ジュウゴハと繰り返した。
 
 ### 一九八一年二月、北新宿一丁目、駒津写植
 
