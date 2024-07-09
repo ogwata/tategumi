@@ -31,7 +31,7 @@ lang: 'ja'
 
 彼は自分の机の上に並べられた『<span style="text-combine-upright: all">P</span>』のバックナンバーから一冊を抜きだすと、ページを開いて私に見せながら言った。
 
-「ウチに限らず、どんな雑誌も版下といって、この誌面そっくりの雛形を作り、それを印刷しているんだ。ウチは記事の担当者が自分で版下制作することになっているから、まずその作り方を覚えないといけない。でも版下を作るには向き不向きもあるんで……」
+「ウチに限らず、どんな雑誌も版下といって、この誌面そっくりの原型を作り、それを印刷しているんだ。ウチは記事の担当者が自分で版下制作することになっているから、まずその作り方を覚えないといけない。でも版下を作るには向き不向きもあるんで……」
 
 そう言って村木さんは、私のことを探るように見た。
 
@@ -43,7 +43,7 @@ lang: 'ja'
 
 そう言うと、開いた『<span style="text-combine-upright: all">P</span>』の本文の部分を指さすと言った。
 
-「この文字も筆者の原稿を写植で打ってもらったんだけど、写植屋さんが打つためには原稿だけではなく、それをどんな種類の文字で、どんなサイズで打つのかっていう〈指定〉が必要なんだ」
+「この文字も筆者の原稿を写植で打ってもらったんだけど、写植屋さんが打つためには原稿だけではなく、それをどんな種類の文字で、どんなサイズで打つのかっていう〈写植指定〉が必要なんだ」
 
 村木さんは机の一番上の長い引き出しを開けて、透明のプラスチック・フィルムを取り出して、私の前に置いた。なんだろうこれは、升目がびっしり印刷されている。縦に一行ごとに並んだ升目は、右端は米粒のように小さいが、左に行くほど大きくなっていき、左端は一円玉ほどの大きさだ。
 
@@ -53,7 +53,7 @@ lang: 'ja'
 
 「たとえば〈<span style="text-combine-upright: all">9</span>〉というのは九級、〈<span style="text-combine-upright: all">50</span>〉は五十級というサイズで、その横に並んでいる升目がそのサイズの原寸なんだ。たとえばね……」
 
-そう言うと、村木さんは級数表を本文の上に当てた。しばらく級数表を両手で細かく動かした後、動かないようにぴったり抑えながら言った。
+そう言うと、村木さんは級数表を本文の上に当てた。しばらく級数表を両手で細かく動かした後、動かないように抑えながら言った。
 
 「見てご覧」
 
@@ -63,23 +63,23 @@ lang: 'ja'
 
 言われて本文冒頭の行を見ると、升目の四角にぴたりと収まってまるで原稿用紙のように下の文字が読める。升目の列の上には〈<span style="text-combine-upright: all">9</span>〉と書かれている。
 
-「九級の升目にぴったり合っているでしょ。ところが……」
+「九級の升目にきっちり合っているでしょ。ところが……」
 
-村木さんは級数表を少し左にずらして、隣の〈<span style="text-combine-upright: all">10</span>〉の升目に一行目を合わせた。ところが今度は最初は行頭の文字は合っているけれど、少しずつ行末に行くほど升目と文字のずれが拡がってしまっている。
+村木さんは級数表を少し左にずらして、隣の〈<span style="text-combine-upright: all">10</span>〉の升目に一行目を合わせた。今度は行頭の文字は合っているのに、行末に行くほど少しずつ升目と文字のずれが拡がってしまっている。
 
-「隣の十級の升目には合わないよね。だから、文字サイズは九級というわけ。それだけじゃなくて字詰め、一行あたりの文字数も測ることができるでしょ？」
+「隣の十級の升目は合わない。だから、文字サイズは九級というわけ。それだけじゃなくて字詰め、一行あたりの文字数も測ることができるよ」
 
-そういうと、また九級の升目に一行目を合わせた。本当だ。縦に並んだ升目には、十文字ごとに〈<span style="text-combine-upright: all">10</span>〉〈<span style="text-combine-upright: all">20</span>〉〈<span style="text-combine-upright: all">30</span>〉……と数字が入り、文字数が分かるようになっている。さらによく見ると、五文字目、十五文字目、二十五文字目……と五文字分ずれた十文字ごとの升目に〈◉〉のマークが入っている。
+そういうと、また一行目に九級の升目を合わせた。本当だ。縦に並んだ升目には、十文字ごとに〈<span style="text-combine-upright: all">10</span>〉〈<span style="text-combine-upright: all">20</span>〉〈<span style="text-combine-upright: all">30</span>〉……と数字が入り、文字数が分かるようになっている。さらによく見ると、五文字目、十五文字目、二十五文字目……と五文字分ずれた十文字ごとの升目に〈◉〉のマークが入っている。
 
-「でも、級数と字詰めだけ指定しても、写植屋さんは打てないよ。これを見て」
+「でも、級数と字詰めだけ指定しても、写植屋さんは打てない。これを見て」
 
 村木さんは、今度は級数表をそのまま九十度動かして横にすると、また両手で文字に合わせて細かく動かした後、級数表を固定して言った。
 
 「ほら」
 
-今度は各行の一文字目を横断するように級数表が当てられている。みると、文字の大きさよりも大きな十二級の升目の中央に、行頭の文字がぴったり収まっている。しかも最初の行から最後の行まで全てだ。すごい、一枚の級数表でいろんなことができるんだ。
+今度は各行の一文字目を横断するように級数表が当てられている。みると、文字のサイズより三段階大きい十二級の升目の中央に、行頭の文字がぴったり収まっている。しかも最初の行から最後の行まで全てだ。すごい、一枚の級数表でいろんなことができるんだ。
 
-「行と行の間隔を行間といい、単位は歯で表す。歯というのは写植機に組み込まれている歯車からきているらしい。ちなみに、級と歯は同じだけど、文字サイズを表す時だけ、歯ではなく級を使う。分かるかな、ちょっと自分でも測ってみて」
+「行と行の間隔を行間といい、単位は歯で表す。歯というのは写植機を動かしている歯車からきているらしい。ちなみに、級と歯は同じだけど、文字サイズを表す時だけ、歯ではなく級を使う。分かるかな、ちょっと自分でも測ってみて」
 
 そう言って村木さんは私に『<span style="text-combine-upright: all">P</span>』と級数表を渡した。
 
@@ -95,9 +95,9 @@ lang: 'ja'
 
 そこには小さな文字が一定の字詰めで、全体が四角い箱のように印字されている。そう、いつも私が読んでいた雑誌の本文そのものだ。村木さんは写植を机の上に置くと、今度は封筒から十枚ほどの原稿用紙の束を取り出して、隣に置いた。
 
-「これは写植の元になった原稿。ほら、原稿用紙の余白を見て、赤鉛筆で何か書いてあるでしょ。これは僕が書き込んだ写植指定で、文字の種類、級数、行間、字詰めなんかを指定してあるの」
+「これは写植の元になった原稿。ほら、原稿用紙の余白を見て。赤鉛筆で何か書いてあるでしょ。これは僕が書き込んだ写植指定で、文字の種類、級数、行間、字詰めなんかを指定してあるの」
 
-原稿用紙の何も書かれていない部分には、赤鉛筆で〈<span style="text-combine-upright: all">M</span>、<span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">Q</span><span style="text-combine-upright: all">12</span><span style="text-combine-upright: all">H</span>、<span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">L</span>＝<span style="text-combine-upright: all">18</span><span style="text-combine-upright: all">W</span>〉と書かれてあった。なんだこの暗号は。
+原稿用紙の何も書かれていない部分には、大ぶりの赤鉛筆の字で〈<span style="text-combine-upright: all">M</span>、<span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">Q</span><span style="text-combine-upright: all">12</span><span style="text-combine-upright: all">H</span>、<span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">L</span>＝<span style="text-combine-upright: all">18</span><span style="text-combine-upright: all">W</span>〉と殴り書きされていた。なんだこの暗号は。
 
 「この〈<span style="text-combine-upright: all">M</span>〉というのが文字の種類で明朝体の〈<span style="text-combine-upright: all">M</span>〉。〈<span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">Q</span>〉というのは文字サイズが九級ということで、級を早く書くために〈</span><span style="text-combine-upright: all">Q</span>〉にしている。〈<span style="text-combine-upright: all">12</span><span style="text-combine-upright: all">H</span>〉というのは行間十二歯で、やはり歯を早く書くために〈</span><span style="text-combine-upright: all">H</span>〉にしているんだ。〈<span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">L</span>＝<span style="text-combine-upright: all">18</span><span style="text-combine-upright: all">W</span>〉というのは〈<span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">L</span>＝〉が一行当たりという意味で、〈<span style="text-combine-upright: all">18</span><span style="text-combine-upright: all">W</span>〉が十八文字、つまり〈一行十八文字の字詰めで打つ〉という意味。この文字の種類、級数、行間、字詰めの四つさえ指定すれば、写植屋さんは文章を打ってくれるんだ」
 
