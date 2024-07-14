@@ -130,6 +130,7 @@ h2::before {
 h3 {
   font-size: 12pt;
   line-height: 18pt;
+  font-feature-settings: "palt";
   /* margin-block: 1rlh 0; */
   margin-break: auto;
   block-size: 1rlh;
