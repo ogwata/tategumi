@@ -53,11 +53,11 @@ lang: 'ja'
 
 よく見ると、縦長の級数表の上端に右から左に〈<span style="text-combine-upright: all">7</span>〉〈<span style="text-combine-upright: all">8</span>〉〈<span style="text-combine-upright: all">9</span>〉〈<span style="text-combine-upright: all">10</span>〉〈</span><span style="text-combine-upright: all">11</span>〉……と番号が印刷されていて、その番号のすぐ下に同じサイズの升目がずらっと下端まで伸びている。番号の最初の方は順番に一つずつ増えていくが、途中から二つ飛ばし四つ飛ばしになり、最後の方は〈<span style="text-combine-upright: all">32</span>〉〈<span style="text-combine-upright: all">38</span>〉〈<span style="text-combine-upright: all">44</span>〉……となり、左端は〈<span style="text-combine-upright: all">62</span>〉だ。
 
-「たとえば〈<span style="text-combine-upright: all">9</span>〉というのは九級、〈<span style="text-combine-upright: all">50</span>〉は五十級というサイズで、その横に並んでいる升目がそのサイズの原寸なんだ。たとえばね……」
+「たとえば〈<span style="text-combine-upright: all">9</span>〉というのは九級、〈<span style="text-combine-upright: all">50</span>〉は五十級というサイズで、その横に並んでいる升目がそのサイズの原寸なんだ」
 
 そう言うと、村西さんは級数表を本文の上に当てた。しばらく級数表を両手で細かく動かした後、動かないように抑えながら言った。
 
-「見てご覧」
+「見て」
 
 なんだろう。私は腰を浮かして村西さんの手元を覗き込む。見ると一ページ四段で組まれた本文のうち、一番上の段に級数表が重ねられている。
 
