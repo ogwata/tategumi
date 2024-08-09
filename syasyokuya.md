@@ -5,9 +5,9 @@ link:
 lang: 'ja'
 ---
 
-# 一九八一年の写植機
+# <span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">8</span><span style="text-combine-upright: all">1</span>年の写植機
 
-## 一九八一年の写植機
+## <span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">8</span><span style="text-combine-upright: all">1</span>年の写植機
 
 <div class="author">
 
@@ -15,7 +15,7 @@ lang: 'ja'
 
 </div>
 
-### 一九八一年一月十二日、西新宿六丁目唐川ビル
+### <span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">8</span><span style="text-combine-upright: all">1</span>年<span style="text-combine-upright: all">1</span>月<span style="text-combine-upright: all">21</span>日、西新宿六丁目唐川ビル
 
 「小形くん、ちょっと来て」
 
@@ -73,7 +73,7 @@ lang: 'ja'
 
 「九級の升目にきっちり合っているでしょ。ところが……」
 
-村西くんは級数表を少し左にずらして、隣の〈<span style="text-combine-upright: all">10</span>〉の升目に一行目を合わせた。今度は行頭の文字は合っているのに、行末に行くほど少しずつ升目と文字のずれが拡がってしまっている。
+村西くんは級数表を少し右にずらして、隣の〈<span style="text-combine-upright: all">10</span>〉の升目に一行目を合わせた。今度は行頭の文字は合っているのに、行末に行くほど少しずつ升目と文字のずれが拡がってしまっている。
 
 「隣の十級の升目は合わない。だから、この文字のサイズは九級と分かるわけ。それだけじゃなくて字詰め、一行あたりの文字数も測ることができるよ」
 
@@ -91,7 +91,7 @@ lang: 'ja'
 
 そう言うと、村西くんはちょっと間を置いて言葉を継ぐ。
 
-「一歯は〇・二五ミリということ。たとえば四歯は〈〇・二五×四〉で一ミリ、十二歯は〈〇・二五×十二〉で三ミリちょうど。つまりミリは歯で必ず割り切れるんだ。これ、版下を作る時に便利だから覚えておいてね。ちなみに、級と歯は同じだけど、文字サイズを表す時だけ、歯ではなく級を使い、それ以外の行間なんかでは歯を使う。分かるかな、ちょっと自分でも測ってみて」
+「一歯は〇・二五ミリということ。たとえば四歯は〈〇・二五×四〉で一ミリ、十二歯は〈〇・二五×十二〉で三ミリちょうど。つまりミリは必ず歯で割り切れるんだ。これ、版下を作る時に便利だから覚えておいてね。ちなみに、級と歯は同じだけど、文字サイズを表す時だけ、歯ではなく級を使い、それ以外の行間なんかでは歯を使う。分かるかな、ちょっと自分でも測ってみて」
 
 そう言って村西くんは私に『<span style="text-combine-upright: all">P</span>』と級数表を渡した。
 
@@ -123,7 +123,7 @@ lang: 'ja'
 
 初めて聞く珍しい言葉の響き、まるで呪文みたいだ。そうか、世界の秘密の扉を開ける呪文なんだな。私は忘れないように、頭の中でキュウキュウ・ジュウニハ、ジュッキュー・ジュウゴハと繰り返した。
 
-### 一九八一年二月二日 唐川ビル『<span style="text-combine-upright: all">P</span>』編集室
+### <span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">8</span><span style="text-combine-upright: all">1</span>年<span style="text-combine-upright: all">2</span>月<span style="text-combine-upright: all">2</span>日 唐川ビル『<span style="text-combine-upright: all">P</span>』編集室
 
 「小形くん、悪いけどお使い頼める<span style="text-combine-upright: all">?</span>」
 
@@ -161,7 +161,7 @@ lang: 'ja'
 
 駒津さんは私のことなどお構いなしに、手早く、しかしリズミカルに写植を打つ手を休めない。いいチャンスだ、前から興味があった写植機というものを、この機会によく見てやろう。
 
-写植機は幅が一メートルちょっと、高さが一・五メートルほどの大きな金属製だ。全体は上半分のクリーム色や銀色からなる部分と、下半分の焦げ茶色の台座部分の二つに分かれている。そして、上半分と下半分の間には十センチほどの薄暗い隙間が広がっており、その隙間の底には大きな可動式のプレートが設置されている。駒津さんは左手でプレート前面の銀色の横棒を握って水平方向に自在に動かし、ある瞬間にそれをピタッと止めると、上半分のクリーム色部分から飛び出している短いレバーを右手で「ガチャン」と打ち下ろしているのだった。
+写植機は幅が一メートルちょっと、高さが一・五メートルほど、奥行きは一メートル足らずの大きな金属製だ。全体は上半分のクリーム色や銀色からなる部分と、下半分の焦げ茶色の台座部分の二つに分かれている。そして、上半分と下半分の間には十センチほどの薄暗い隙間が広がっており、その隙間の底には大きな可動式のプレートが設置されている。駒津さんは左手でプレート前面の銀色の横棒を握って水平方向に自在に動かし、ある瞬間にそれをピタッと止めると、上半分のクリーム色部分から飛び出している短いレバーを右手で「ガチャン」と打ち下ろしているのだった。
 
 遠慮がちに駒津さんの背中越しに写植機を覗き込むと、駒津さんが左手で動かしているガラスのプレートには文字が裏返しにビッシリと印刷されているのが目に入った。隙間になっている空間の中央には、先端が一センチほどの四角い枠になっている透明なプラスチック棒が上の方からプレートの近くまで伸びている。固定されたその棒の先に、ちょうどスポットライトが当たるようになっていて、その光がガラスのプレートの文字も照らし出している。
 
@@ -195,13 +195,13 @@ lang: 'ja'
 
 「これ、佐野さんの原稿です」
 
-駒津さんはタオルで手を拭きながら受け取ると、小声で「ご苦労さん」と言って、立ったまま中から何枚かの原稿を取り出した。あまり興味なさそうに手早く原稿を確かめていく、途中で「おや<span style="text-combine-upright: all">?</span>」という感じで手を止めると、一枚の原稿をじいっと凝視する。しばらくすると目を離し、クククとうれしそうに笑いながら、誰に言うともなく駒津さんは呟いた。
+駒津さんはタオルで手を拭きながら受け取ると、小声で「ご苦労さん」と言って、立ったまま中から何枚かの原稿を取り出した。あまり興味なさそうに手早く原稿を確かめていく、途中で「おや<span style="text-combine-upright: all">?</span>」という感じで手を止めると、一枚の原稿をじいっと凝視する。しばらくするとクククとうれしそうに笑いながら、誰に言うともなく駒津さんは呟いた。
 
 「ひさしぶりに写植らしい指定を見たな」
 
 それ、どういう意味ですか、という質問は呑み込んだ。私に向かって言ったようには思えなかったし、ヘタなことを聞くと怒られそうだ。私は駒津さんが機嫌のよいうちにお邪魔することにして、小さな声で「じゃあ失礼します」と断って駒津さんに背を向けた。
 
-### 一九八一年二月四日 唐川ビル『<span style="text-combine-upright: all">P</span>』編集室
+### <span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">8</span><span style="text-combine-upright: all">1</span>年<span style="text-combine-upright: all">2</span>月<span style="text-combine-upright: all">4</span>日 唐川ビル『<span style="text-combine-upright: all">P</span>』編集室
 
 次の私の出勤日は、駒津写植に原稿を届けた二日後だった。午前十一時頃、「こんちはー」とドアを開けたが、まだ編集室には誰もいなかった。予想通りだ。私は共有机の上に置かれた、<span style="text-combine-upright: all">B</span><span style="text-combine-upright: all">4</span>判ほどの浅いプラスチック製のカゴに近づいた。
 
