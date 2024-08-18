@@ -77,7 +77,7 @@ lang: 'ja'
 
 「隣の十級の升目の行には合わない。だから、この文字のサイズは九級と分かるわけ。それだけじゃなくて字詰め、一行あたりの文字数も測ることができるよ」
 
-そういうと、また一行目に九級の升目を合わせた。本当だ。縦に並んだ升目には、十文字ごとに〈<span style="text-combine-upright: all">10</span>〉〈<span style="text-combine-upright: all">20</span>〉〈<span style="text-combine-upright: all">30</span>〉……と数字が入っている。さらによく見ると、五文字目、十五文字目、二十五文字目……と五文字分ずれた十文字ごとの升目に〈◉〉のマークが入っている。これらの目印を頼りにすれば、その行が何文字なのか簡単に測ることができるわけだ。
+そういうと、また一行目に九級の升目を合わせた。本当だ。縦に並んだ升目には、十文字ごとに〈<span style="text-combine-upright: all">10</span>〉〈<span style="text-combine-upright: all">20</span>〉〈<span style="text-combine-upright: all">30</span>〉……と数字が入っている。さらによく見ると五文字目、十五文字目、二十五文字目……と五文字分ずれた十文字ごとの升目に〈◉〉のマークが入っている。これらの目印を頼りにすれば、その行が何文字なのか簡単に測ることができるのか。
 
 「でも、級数と字詰めだけ指定しても、写植屋さんは写植を打てない。これを見て」
 
@@ -91,13 +91,13 @@ lang: 'ja'
 
 そう言うと、村西くんはちょっと間を置いて言葉を継ぐ。
 
-「一歯は〇・二五ミリ、つまり一ミリのちょうど四分の一ということ。たとえば四歯は〈〇・二五×四〉だから一ミリ、十二歯は〈〇・二五×十二〉で三ミリちょうど。このようにミリは必ず歯で割り切れるんだ。これ、版下を作る時に便利だから覚えておいてね。ちなみに、級と歯は同じだけど、文字サイズを表す時だけ、歯ではなく級を使い、それ以外の行間なんかでは歯を使う。分かるかな」
+「一歯は〇・二五ミリ、つまり一ミリのちょうど四分の一ということ。たとえば四歯は〈〇・二五×四〉だから一ミリ、十二歯は〈〇・二五×十二〉で三ミリちょうど。このようにミリは必ず歯で割り切れるんだ。これ、版下を作る時に便利だから覚えておいてね。ちなみに、級と歯は同じだけど、文字サイズを表す時だけ、歯ではなく級を使い、それ以外の行間とか字間、つまり文字と文字の間隔を指定する際は歯を使う」
 
 村西くんって頭いいんだな。昔から算数の苦手な私にはとても真似できない。村西くんは私に『<span style="text-combine-upright: all">P</span>』と級数表を渡して言った。
 
-「ちょっと自分でも測ってみて。テンとかマルがあるとずれちゃうから、そういうのがなるべくない行を探すといいよ。それから見出しは字間、つまり文字と文字の間隔を詰めるときもあるから、級数表でうまく級数が測れないことが多い。本文なら級数と字間は同じだから、本文を測るといい」
+「分かるかな。ちょっと自分でも測ってみて。テンとかマルがあるとずれちゃうから、そういうのがなるべくない行を探すといいよ。それから見出しは字間を詰めるときもあるから、級数表でうまく級数が測れないことが多い。本文なら級数と字間は同じだから、本文を測るといい」
 
-言われたとおり、私は『<span style="text-combine-upright: all">P</span>』をめくっていくと、本文に片端から級数表を当てていった。算数の苦手な私にも、これらの記事の全てが、紛れもなく写植特有のルールで作られていたことだけはよく分かった。そうか、今まで知らなかったけど、いつも読んでいる本や雑誌の文字って、全部こうやって作られていたんだ。私はワクワクしてきた。なんか世界の作り方の秘密を教えてもらったみたいだ。
+言われたとおり、私は『<span style="text-combine-upright: all">P</span>』をめくっていくと、本文に片端から級数表を当てていった。算数の苦手な私にも、これらの記事の全てが、紛れもなく写植特有のルールで作られていたことだけはよく分かった。そうか、今まで知らなかったけど、いつも読んでいる本や雑誌の文字って、全部こうやって作られていたんだ。私はワクワクしてきた。なんか世界の作り方の秘密を教えてもらったみたいだ。だって、これさえ理解すれば自分にも本が作れるのだから。
 
 そんな私を見ながら、やがて村西くんは自分の机の上に立てかけられていた、古ぼけた大きめの茶封筒を抜きとった。
 
@@ -113,7 +113,7 @@ lang: 'ja'
 
 原稿用紙の何も書かれていない部分には、大ぶりの赤鉛筆の字で〈<span style="text-combine-upright: all">M</span>、<span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">Q</span><span style="text-combine-upright: all">12</span><span style="text-combine-upright: all">H</span>、<span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">L</span>＝<span style="text-combine-upright: all">18</span><span style="text-combine-upright: all">W</span>〉と殴り書きされていた。なんだこの暗号は。
 
-「この〈<span style="text-combine-upright: all">M</span>〉というのが文字の種類で明朝体の〈<span style="text-combine-upright: all">M</span>〉。〈<span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">Q</span>〉というのは文字サイズが九級ということで、級を早く書くために〈</span><span style="text-combine-upright: all">Q</span>〉にしている。〈<span style="text-combine-upright: all">12</span><span style="text-combine-upright: all">H</span>〉というのは行間十二歯で、やはり歯を早く書くために〈</span><span style="text-combine-upright: all">H</span>〉にしているんだ。〈<span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">L</span>＝<span style="text-combine-upright: all">18</span><span style="text-combine-upright: all">W</span>〉というのは〈<span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">L</span>＝〉が一行当たりという意味で、〈<span style="text-combine-upright: all">18</span><span style="text-combine-upright: all">W</span>〉が十八文字、つまり〈一行十八文字の字詰めで打つ〉という意味。この文字の種類、級数、行間、字詰めの四つさえ指定すれば、写植屋さんは文章を打ってくれるんだ」
+「この〈<span style="text-combine-upright: all">M</span>〉というのが文字の種類で明朝体の〈<span style="text-combine-upright: all">M</span>〉。〈<span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">Q</span>〉というのは文字サイズが九級ということで、級を早く書くために〈</span><span style="text-combine-upright: all">Q</span>〉にしている。〈<span style="text-combine-upright: all">12</span><span style="text-combine-upright: all">H</span>〉というのは行間十二歯で、やはり歯を早く書くために〈</span><span style="text-combine-upright: all">H</span>〉にしているんだ。〈<span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">L</span>＝<span style="text-combine-upright: all">18</span><span style="text-combine-upright: all">W</span>〉というのは〈<span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">L</span>＝〉が一行当たりという意味で、〈<span style="text-combine-upright: all">18</span><span style="text-combine-upright: all">W</span>〉が十八文字、つまり〈一行十八文字の字詰めで打つ〉という意味。字間を指定しないのは、とくに指定しなければ級数と同じと見なされるからなんだ。つまり、文字の種類、級数、行間、字詰めの四つさえ指定すれば、写植を打ってくれる」
 
 「四つさえ……」
 
@@ -161,9 +161,9 @@ lang: 'ja'
 
 駒津さんは私のことなどお構いなしに、手早く、しかしリズミカルに写植を打つ手を休めない。いいチャンスだ、前から興味があった写植機というものを、この機会によく見てやろう。
 
-写植機は幅が一メートルちょっと、高さが一・五メートルほど、奥行きは一メートル足らずの大きな金属製だ。全体は下半分の焦げ茶色の台座部分と、その上に乗っかった明るいクリーム色の本体部分とに二分されている。本体部分の正面は、レバーやスイッチ類が配置された銀色のパネルがあり、オペレーターはここを操作するようだ。そして、上半分と下半分の間には十センチほどの薄暗い隙間が広がっており、その隙間の底には大きな可動式のガラスプレートが設置されている。駒津さんは左手でプレート前面の銀色の横棒を握って水平方向に自在に動かし、ある瞬間にそれをピタッと止めると、本体から飛び出している短いレバーを右手で「ガチャン」と打ち下ろしているのだった。
+写植機は幅が一メートルちょっと、高さが一・五メートルほど、奥行きは一メートル足らずの大きな金属製だ。全体は下半分の焦げ茶色の台座部分と、その上に乗っかった明るいクリーム色の本体部分とに二分されている。本体部分の正面は、レバーやスイッチ類が配置された銀色のパネルがあり、オペレーターはここを操作するようだ。そして、本体部分と台座部分の間には十センチほどの薄暗い隙間が広がっており、その隙間の底には大きな可動式のガラスプレートが設置されている。駒津さんは左手でプレート前面の銀色の横棒を握って水平方向に自在に動かし、ある瞬間にそれをピタッと止めると、本体から飛び出している短いレバーを右手で「ガチャン」と打ち下ろしているのだった。
 
-遠慮がちに駒津さんの背中越しに写植機を覗き込むと、駒津さんが左手で動かしているガラスプレートには文字が裏返しにぎっしり記されているのが目に入った。隙間になっている空間の中央には、先端が一センチほどの四角い枠になっている透明なプラスチック棒が上の方からプレートの近くまで伸びている。固定されたその棒の先に、ちょうどスポットライトが当たるようになっていて、その光がガラスでできたプレートの文字も照らし出してカッコいい。
+遠慮がちに駒津さんの背中越しに写植機を覗き込むと、駒津さんが左手で動かしているガラスプレートには文字が裏返しの形でぎっしり記されているのが目に入った。隙間になっている空間の中央には、先端が一センチほどの四角い枠になっている透明なプラスチック棒が上の方からプレートの近くまで伸びている。固定されたその棒の先に、ちょうどスポットライトが当たるようになっていて、その光がガラスでできたプレートの文字も照らし出してカッコいい。
 
 そうか、この光が当たった透明の枠の中に目的の文字が収まるようプレートを動かし、うまく位置を決めところでガチャンとレバーを下ろして印字するという仕組みのようだ。駒津さんはプレートのどこにどの字が配置されているか完璧に暗記しているようで、まったく迷いのない動きでガシャン、ガシャンと小気味よく印字を続けていた。
 
