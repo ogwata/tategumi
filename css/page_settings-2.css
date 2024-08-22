@@ -1,6 +1,6 @@
 @charset "utf-8";
-/* @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Shippori+Mincho&family=Zen+Maru+Gothic:wght@700&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Shippori+Mincho&family=Zen+Maru+Gothic:wght@700&display=swap'); */
 
 /* @font-face {
   font-family: udevgothic-r;
@@ -33,10 +33,10 @@
   --column-font-size: 14Q; /*コラムのフォントサイズ*/
   /* フォント指定 */
   /* --main-text-font: 'Shippori Mincho'; メインフォント */
-  /* --main-text-font: "Noto Sans JP"; */
-  --main-text-font: "YuMincho02-R", sans-serif;
-  --header-font: "DNP秀英初号明朝Std", sans-serif;
-  /* --header-font: "Zen Maru Gothic"; */
+  --main-text-font: "Noto Serif JP";
+  /* --main-text-font: "YuMincho02-R", sans-serif; */
+  /* --header-font: "DNP秀英初号明朝Std", sans-serif; */
+  --header-font: "Zen Maru Gothic";
 
 
 
