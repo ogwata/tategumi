@@ -221,17 +221,24 @@ lang: 'ja'
 
 ロゴが入るはずの場所の左脇には横書きで少し大きく月号と発売日が、右脇にはこれも横書きで小さく、聞いたことのない版元名と住所が入っている。これらの下には縦書きで、最も目立つサイズで記事のタイトルと、それより小振りに筆者名が、それぞれ特集、評論、連載の三つのグループに分かれ行儀よく並んでいる。
 
-それら広告にならんだ記事からは、研究者が読むような学会誌がイメージされる。そういえば佐野さんは、『<span style="text-combine-upright: all">P</span>』の執筆者でもあった小説家に推薦されて、お堅いので有名なある国文学専門誌の表紙デザインを担当することになったと聞いた。この写植はそうした佐野さんの副業の一つなのだろう。
+それら広告にならんだ記事のタイトルからは、研究者が読むような学会誌がイメージされる。そういえば佐野さんは、『<span style="text-combine-upright: all">P</span>』の執筆者でもあった小説家に推薦されて、お堅いので有名なある国文学専門誌の表紙デザインを担当することになったと聞いた。この写植はそうした佐野さんの副業の一つなのだろう。
 
 しかし、それはいい。今の私にとって問題なのは、そもそもこれは〝版下〟と言えるのかということだ。この駒津さんが打ってきた写植は、版下用紙には貼られていないし、カッターで切り貼りした形跡もない、ぺらっとした一枚だけの印画紙、それなのに最初から大小の文字が整然と配置されており、さらに囲み罫までもが写植で打ってある。つまり、印画紙を切り抜いて版下用紙に貼り付けるまでもなく、すでに印画紙の段階で印刷所に入稿する一歩手前なのだ。なんだこれは<span style="text-combine-upright: all">?</span>　この写植は、それまで私が目にしてきたどんな写植とも違っていた。
 
 村西くんに写植指定を教えてもらってから三週間ほどがたっている。あれから私は村西くんに教わりながら少しずつ仕事を覚え、手伝いの合間に版下制作をやらせてもらえるようになっていた。
 
-それでも版下制作の道はなかなかに険しい。そもそも写植を真っ直ぐに貼ることがむずかしいし、それ以前の問題として真っ直ぐに貼るには写植の文字ギリギリにカッターで切り抜くことが必要なのだが、失敗して文字まで切ってしまい写植を台無しにすることもあった。ましてや固くて使いづらい製図ペンで、真っ直ぐにそして均一の細さで罫線を引くなど思いもよらない。
+それでも版下制作の道はなかなかに険しい。そもそも写植を真っ直ぐに貼ることがむずかしいし、それ以前の問題として真っ直ぐに貼るには写植の文字ギリギリにカッターで切り抜くことが必要なのだが、失敗して文字まで切ってしまい写植を台無しにすることもあった。ましてや書き味が固くて使いづらい製図ペンで、真っ直ぐにそして均一の細さで罫線を引くなど思いもよらない。
 
 一体全体、どうしたらこのような版下いらずの写植が打てるというのか<span style="text-combine-upright: all">?</span>　その謎はすべて、佐野さんが作成したレイアウト用紙にあるに違いない。そして、そこにある指定こそが、駒津さんが喜んだ〝写植らしい指定〟なのだろう。私は<span style="text-combine-upright: all">A</span><span style="text-combine-upright: all">4</span>のレイアウト用紙を机の上に広げた。
 
 「うわあ、きれい」
 
-そのレイアウト用紙には、打ち上がった写植と同じサイズ、同じレイアウトで、文字と罫線がすこし濃い太めの鉛筆で描かれていた。さらに水色、ピンク、緑色など、色とりどりのカラーの細字サインペンを使い、丁寧な字で文字サイズなどの写植指定が書き込まれている。よく見ると、その色分けは
+そのレイアウト用紙には、すこし濃い太めの鉛筆により文字と囲み罫が、打ち上がった写植と同じサイズ、同じ配置で書かれていた。その上で水色、ピンク、緑色など、色とりどりのカラーの細字サインペンを使い、丁寧な字で文字サイズなどの写植指定が書き込まれている。
+
+見ると右上隅には、凡例のように〝水色……<span style="text-combine-upright: all">Y</span><span style="text-combine-upright: all">S</span><span style="text-combine-upright: all">E</span><span style="text-combine-upright: all">G</span>（とくに指示なきは<span style="text-combine-upright: all">28</span><span style="text-combine-upright: all">Q</span>）〟、〝ピンク……<span style="text-combine-upright: all">M</span><span style="text-combine-upright: all">Y</span><span style="text-combine-upright: all">E</span><span style="text-combine-upright: all">M</span>（〃<span style="text-combine-upright: all">13</span><span style="text-combine-upright: all">Q</span>）〟、〝緑色……<span style="text-combine-upright: all">M</span><span style="text-combine-upright: all">G</span>-<span style="text-combine-upright: all">K</span><span style="text-combine-upright: all">L</span>（〃<span style="text-combine-upright: all">11</span><span style="text-combine-upright: all">Q</span>）〟、〝青色……<span style="text-combine-upright: all">M</span><span style="text-combine-upright: all">M</span>-<span style="text-combine-upright: all">O</span><span style="text-combine-upright: all">K</span><span style="text-combine-upright: all">L</span>（〃<span style="text-combine-upright: all">11</span><span style="text-combine-upright: all">Q</span>）〟などと、それぞれの色の細字サインペンで指定されている。
+
+私にはそれぞれの略号の意味までは分からない。しかしたぶんアルファベットは書体名、カッコ内は基本となる文字サイズなのだろう（もちろん「〃」は「上に同じ」）。つまり凡例が意味するのは、書体と基本の文字サイズごとに固有の色で指定していますよ、ということなのだ。つまりこれを打つ写植屋さんは、水色で指定されていればこの書体と文字サイズ、ピンクで指定されていればこの書体と文字サイズと、色を見るだけで書体名と文字サイズが分かるようになっている。そして、それ以外の文字サイズ、ツメや揃えなどは、個々の文字ごとに赤の引出線によりまとめて指定されている。これにより指定の文字数が最低限ですんでしまう。ふーん、きれいなだけじゃなく、ロジカルなんだな。
+
+しかし、このレイアウトがすごいのは、どうやらそれだけではない。よく見ると、
+
 
