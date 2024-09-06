@@ -75,7 +75,7 @@ lang: 'ja'
 
 村西くんは級数表を少し右にずらして、隣の〈<span style="text-combine-upright: all">10</span>〉の升目に一行目を合わせた。今度は行頭の文字は合っているが、行末に行くほど少しずつ升目と文字のずれが拡がってしまっている。
 
-「隣の十級の升目の行には合わない。だから、この文字のサイズは九級と分かるわけ。それだけじゃなくて字詰め、一行あたりの文字数も測ることができるよ」
+「隣の十級の升目だとずれてしまう。だから、この文字のサイズは九級と分かるわけ。それだけじゃなくて字詰め、つまり一行あたりの文字数も測ることができるよ」
 
 そういうと、また一行目に九級の升目を合わせた。本当だ。縦に並んだ升目には、十文字ごとに〈<span style="text-combine-upright: all">10</span>〉〈<span style="text-combine-upright: all">20</span>〉〈<span style="text-combine-upright: all">30</span>〉……と数字が入っている。さらに五文字目、十五文字目、二十五文字目……と五文字分ずれた十文字ごとの升目に〈◉〉のマークが入っている。これらの目印を頼りにすれば、その行が何文字なのか簡単に測ることができるのか。
 
@@ -91,9 +91,9 @@ lang: 'ja'
 
 そう言うと、村西くんはちょっと間を置いて言葉を継ぐ。
 
-「一歯は〇・二五ミリ、つまり一ミリのちょうど四分の一ということ。たとえば四歯は〈〇・二五×四〉だから一ミリ、十二歯は〈〇・二五×十二〉で三ミリちょうど。このようにミリは必ず歯で割り切れるんだ。ちなみに、級と歯は同じだけど、文字サイズを表す時だけ、歯ではなく級を使い、それ以外の行間とか字間、つまり文字と文字の間隔を指定する際は歯を使う」
+「一歯は〇・二五ミリ、つまり一ミリのぴったり四分の一ということ。たとえば四歯は〈〇・二五×四〉だから一ミリ、十二歯は〈〇・二五×十二〉で三ミリちょうど。このようにミリは必ず歯で割り切れるんだ。ちなみに、級と歯は同じだけど、文字サイズを表す時だけ、歯ではなく級を使い、それ以外の行間とか字間、つまり文字と文字の間隔を指定する際は歯を使う」
 
-村西くんって頭いいんだな。昔から算数の苦手な私には、とても真似できない。村西くんは私に『<span style="text-combine-upright: all">P</span>』と級数表を渡して言った。
+ちょっと理解が追いつかない。でも村西くんって頭いいんだな。昔から算数の苦手な私には、とても真似できない。村西くんは私に『<span style="text-combine-upright: all">P</span>』と級数表を渡して言った。
 
 「分かるかな。ちょっと自分でも測ってみて。テンとかマルがあるとずれちゃうから、そういうのがなるべくない行を探すといいよ。それから見出しは字間を詰める場合もあるから、級数表でうまく測れないことがある。本文なら級数と字間は同じだから、本文を測るといい」
 
@@ -111,13 +111,13 @@ lang: 'ja'
 
 「これは写植の元になった原稿。ほら、原稿用紙の余白を見て。赤鉛筆で何か書いてあるでしょ。これは僕が書き込んだ写植指定で、書体、級数、行間、字詰めなんかを指定してあるの」
 
-原稿用紙の何も書かれていない部分には、大ぶりの赤鉛筆の字で〈<span style="text-combine-upright: all">M</span>、<span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">Q</span><span style="text-combine-upright: all">12</span><span style="text-combine-upright: all">H</span>、<span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">L</span>＝<span style="text-combine-upright: all">18</span><span style="text-combine-upright: all">W</span>〉と殴り書きされていた。なんだこの暗号は。
+原稿用紙の何も書かれていない部分には、大ぶりの赤鉛筆の字で〈<span style="text-combine-upright: all">M</span>、<span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">Q</span><span style="text-combine-upright: all">12</span><span style="text-combine-upright: all">H</span>、<span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">L</span>＝<span style="text-combine-upright: all">18</span><span style="text-combine-upright: all">W</span>、バラ打ち〉と殴り書きされていた。なんだこの暗号は。
 
 「この〈<span style="text-combine-upright: all">M</span>〉というのが書体で明朝体の〈<span style="text-combine-upright: all">M</span>〉。〈<span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">Q</span>〉というのは文字サイズが九級ということで、級を早く書くために〈</span><span style="text-combine-upright: all">Q</span>〉にしている。〈<span style="text-combine-upright: all">12</span><span style="text-combine-upright: all">H</span>〉というのは行間十二歯で、やはり歯を早く書くために〈</span><span style="text-combine-upright: all">H</span>〉にしているんだ。〈<span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">L</span>＝<span style="text-combine-upright: all">18</span><span style="text-combine-upright: all">W</span>〉というのは〈<span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">L</span>＝〉が一行当たりという意味で、〈<span style="text-combine-upright: all">18</span><span style="text-combine-upright: all">W</span>〉が十八文字、つまり〈一行十八文字の字詰めで打つ〉という意味。ここで字間を指定していないのは、とくに指定しなければ級数と同じと見なされるからなんだ。つまり、書体、級数、行間、字詰めの四つさえ指定すれば、写植屋さんは写植を打ってくれる」
 
-「四つさえ……」
+「〈バラ打ち〉っていうのは？」
 
-「そう。ついでに言うと、うちは情報とかコラムみたいに短い文章は<span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">Q</span><span style="text-combine-upright: all">12</span><span style="text-combine-upright: all">H</span>、評論みたいに長めの文章は<span style="text-combine-upright: all">10</span><span style="text-combine-upright: all">Q</span><span style="text-combine-upright: all">15</span><span style="text-combine-upright: all">H</span>だからね」
+「タイトルとか本文など、種類ごとにバラバラに打つということ。まあ、今はあまり気にしなくていいよ。ついでに言うと、うちは情報とかコラムみたいに短い文章は<span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">Q</span><span style="text-combine-upright: all">12</span><span style="text-combine-upright: all">H</span>、評論みたいに長めの文章は<span style="text-combine-upright: all">10</span><span style="text-combine-upright: all">Q</span><span style="text-combine-upright: all">15</span><span style="text-combine-upright: all">H</span>だからね」
 
 「キュウキュウ・ジュウニハとジュッキュー・ジュウゴハ……」
 
