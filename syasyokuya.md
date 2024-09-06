@@ -39,7 +39,7 @@ lang: 'ja'
 
 彼は自分の机の上に並べられた『<span style="text-combine-upright: all">P</span>』のバックナンバーから一冊を抜きだすと、ページを開いて私に見せながら言った。
 
-「ウチに限らず、どんな雑誌も版下といって、まず誌面そっくりの原形を作り、それを印刷しているんだ。ウチは記事の担当者が自分で版下制作することになっているから、まずその作り方を覚えないといけない。でも版下を作るには向き不向きもあるんで……」
+「ウチに限らず、どんな雑誌も版下といって、まず誌面そっくりの原形を作り、それを印刷しているんだ。通常版下は印刷所が作るものなんだけど、ウチは記事の担当者が自分で版下制作することになっている。だから、まずその作り方を覚えないといけない。でも版下を作るには向き不向きもあるんで……」
 
 そう言って村西くんは、私のことを細い目で探るように見た。
 
@@ -93,7 +93,7 @@ lang: 'ja'
 
 「一歯は〇・二五ミリ、つまり一ミリのぴったり四分の一ということ。たとえば四歯は〝〇・二五×四〟だから一ミリ、十二歯は〝〇・二五×十二〟で三ミリちょうど。このようにミリは必ず歯で割り切れるんだ。ちなみに、級と歯は同じだけど、文字サイズを表す時だけ、歯ではなく級を使い、それ以外の行間とか字間、つまり文字と文字の間隔を指定する際は歯を使う」
 
-ちょっと話しに追いつけない。村西くんって頭いいんだな。昔から算数の苦手な私には、とても真似できない。村西くんは私に『<span style="text-combine-upright: all">P</span>』と級数表を渡して言った。
+村西くんって頭いいんだな。昔から算数の苦手な私は、ちょっと話しに追いつけない。村西くんは私に『<span style="text-combine-upright: all">P</span>』と級数表を渡して言った。
 
 「分かるかな。ちょっと自分でも測ってみて。テンとかマルがあるとずれちゃうから、そういうのがなるべくない行を探すといいよ。それから見出しは字間を詰める場合もあるから、級数表でうまく測れないことがある。本文なら級数と字間は同じだから、本文を測るといい」
 
@@ -233,11 +233,11 @@ lang: 'ja'
 
 「うわあ、きれい」
 
-そのレイアウト用紙には、すこし濃い太めの鉛筆により文字と囲み罫が、打ち上がった写植と同じサイズ、同じ配置で書かれていた。その上で色とりどりのカラーの細字サインペンにより、たとえば記事のタイトルは水色で、著者名はピンクで、出版社名とその住所は緑色で丸く囲んでいる。
+そのレイアウト用紙には、すこし濃い太めの鉛筆により文字と囲み罫が、打ち上がった写植と同じサイズ、同じ配置で手書きされていた。その上で色とりどりのカラーの細字サインペンにより、たとえば記事のタイトルは水色で、著者名はピンクで、出版社名とその住所は緑色で丸く囲んである。
 
 見ると右上隅には、凡例のように横書きで〝水色……<span style="text-combine-upright: all">Y</span><span style="text-combine-upright: all">S</span><span style="text-combine-upright: all">E</span><span style="text-combine-upright: all">G</span>（とくに指示なきは<span style="text-combine-upright: all">28</span><span style="text-combine-upright: all">Q</span>）〟、〝ピンク……<span style="text-combine-upright: all">M</span><span style="text-combine-upright: all">Y</span><span style="text-combine-upright: all">E</span><span style="text-combine-upright: all">M</span>（〃<span style="text-combine-upright: all">13</span><span style="text-combine-upright: all">Q</span>）〟、〝緑色……<span style="text-combine-upright: all">M</span><span style="text-combine-upright: all">G</span>-<span style="text-combine-upright: all">K</span><span style="text-combine-upright: all">L</span>（〃<span style="text-combine-upright: all">11</span><span style="text-combine-upright: all">Q</span>）〟、〝青色……<span style="text-combine-upright: all">M</span><span style="text-combine-upright: all">M</span>-<span style="text-combine-upright: all">O</span><span style="text-combine-upright: all">K</span><span style="text-combine-upright: all">L</span>（〃<span style="text-combine-upright: all">11</span><span style="text-combine-upright: all">Q</span>）〟などと、それぞれの色の細字サインペンで指定されている。
 
-私にはそれぞれの略号の意味までは分からない。しかしたぶんアルファベットは書体名であり、カッコ内は基本となる文字サイズなのだ（もちろん「〃」は「上に同じ」）。つまりこの凡例が意味するのは、書体と基本の文字サイズごとに固有の色で指定していますよ、ということなのだ。
+私にはそれぞれの略号の意味までは分からない。しかしたぶんアルファベットは書体名であり、カッコ内は基本となる文字サイズなのだ（もちろん「〃」は「上に同じ」）。つまりこの凡例が意味するのは、それぞれ固有の色で書体と基本の文字サイズが指定してありますよ、ということなのだ。
 
 このレイアウトにしたがって写植を打つ人には、水色で指定されていればこの書体と文字サイズ、ピンクで指定されていればこの書体と文字サイズと、色を見ただけで書体名と文字サイズが分かるようになっている。そして、基本外の文字サイズ、ツメや揃えなどは、個々の文字ごとに赤の引出線によって指定されている。これにより最低限の文字数で指定がすんでしまう。つまり、シンプルで分かりやすい。ふーん、きれいなだけじゃなく、機能的なんだな。
 
