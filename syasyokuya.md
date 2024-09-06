@@ -233,14 +233,30 @@ lang: 'ja'
 
 「うわあ、きれい」
 
-そのレイアウト用紙には、すこし濃い太めの鉛筆により文字と囲み罫が、打ち上がった写植と同じサイズ、同じ配置で手書きされていた。その上で色とりどりのカラーの細字サインペンにより、たとえば記事のタイトルは水色で、著者名はピンクで、出版社名とその住所は緑色で丸く囲んである。
+そのレイアウト用紙には、すこし濃い太めの鉛筆により文字と囲み罫が、打ち上がった写植と同じサイズ、同じ配置で手書きされていた。その上で色とりどりのカラーの細字サインペンにより、たとえば記事のタイトルは水色で、筆者名はピンクで、出版社名とその住所は緑色で丸く囲んである。
 
-見ると右上隅には、凡例のように横書きで〝水色……<span style="text-combine-upright: all">Y</span><span style="text-combine-upright: all">S</span><span style="text-combine-upright: all">E</span><span style="text-combine-upright: all">G</span>（とくに指示なきは<span style="text-combine-upright: all">28</span><span style="text-combine-upright: all">Q</span>）〟、〝ピンク……<span style="text-combine-upright: all">M</span><span style="text-combine-upright: all">Y</span><span style="text-combine-upright: all">E</span><span style="text-combine-upright: all">M</span>（〃<span style="text-combine-upright: all">13</span><span style="text-combine-upright: all">Q</span>）〟、〝緑色……<span style="text-combine-upright: all">M</span><span style="text-combine-upright: all">G</span>-<span style="text-combine-upright: all">K</span><span style="text-combine-upright: all">L</span>（〃<span style="text-combine-upright: all">11</span><span style="text-combine-upright: all">Q</span>）〟、〝青色……<span style="text-combine-upright: all">M</span><span style="text-combine-upright: all">M</span>-<span style="text-combine-upright: all">O</span><span style="text-combine-upright: all">K</span><span style="text-combine-upright: all">L</span>（〃<span style="text-combine-upright: all">11</span><span style="text-combine-upright: all">Q</span>）〟などと、それぞれの色の細字サインペンで指定されている。
+見ると右上隅には、凡例のように横書きで〝水色……<span style="text-combine-upright: all">Y</span><span style="text-combine-upright: all">S</span><span style="text-combine-upright: all">E</span><span style="text-combine-upright: all">G</span>（とくに指示なきは<span style="text-combine-upright: all">28</span><span style="text-combine-upright: all">Q</span>）〟、〝ピンク……<span style="text-combine-upright: all">M</span><span style="text-combine-upright: all">Y</span><span style="text-combine-upright: all">E</span><span style="text-combine-upright: all">M</span>（〃<span style="text-combine-upright: all">18</span><span style="text-combine-upright: all">Q</span>）〟、〝緑色……<span style="text-combine-upright: all">M</span><span style="text-combine-upright: all">G</span>-<span style="text-combine-upright: all">K</span><span style="text-combine-upright: all">L</span>（〃<span style="text-combine-upright: all">11</span><span style="text-combine-upright: all">Q</span>）〟、〝青色……<span style="text-combine-upright: all">M</span><span style="text-combine-upright: all">M</span>-<span style="text-combine-upright: all">O</span><span style="text-combine-upright: all">K</span><span style="text-combine-upright: all">L</span>（〃<span style="text-combine-upright: all">11</span><span style="text-combine-upright: all">Q</span>）〟などと、それぞれの色の細字サインペンで指定されている。
 
 私にはそれぞれの略号の意味までは分からない。しかしたぶんアルファベットは書体名であり、カッコ内は基本となる文字サイズなのだ（もちろん「〃」は「上に同じ」）。つまりこの凡例が意味するのは、それぞれ固有の色で書体と基本の文字サイズが指定してありますよ、ということなのだ。
 
-このレイアウトにしたがって写植を打つ人には、水色で指定されていればこの書体と文字サイズ、ピンクで指定されていればこの書体と文字サイズと、色を見ただけで書体名と文字サイズが分かるようになっている。そして、基本外の文字サイズ、ツメや揃えなどは、個々の文字ごとに赤の引出線によって指定されている。これにより最低限の文字数で指定がすんでしまう。つまり、シンプルで分かりやすい。ふーん、きれいなだけじゃなく、機能的なんだな。
+このレイアウトにしたがって写植を打つ人は、水色で指定されていればこの書体と文字サイズ、ピンクで指定されていればこの書体と文字サイズと、色を見ただけで書体名と文字サイズが分かるだろう。そして、基本外の文字サイズ、ツメや揃えなどは、個々の文字ごとに赤の引出線によって指定されている。これにより最低限の文字数で写植指定ができてしまう。つまり、シンプルで分かりやすい。ふーん、きれいなだけじゃなく、機能的なんだな。
 
-しかし、このレイアウトの見所は、どうやらそれだけではないようだ。よく見ると、
+しかし、このレイアウトの見所はまだあるようだ。よく見ると、囲み罫の縦横のサイズは当然として、たとえばタイトルロゴ枠の縦横のサイズ、そして囲み罫上端とタイトルロゴ枠上端との間隔、同じく囲み罫上端と版元名・住所との間隔など、囲み罫の四辺と個々の枠・文字との間隔が、赤ペンで書かれた矢印と数字により事細かく指定されている。ちなみに、単位はミリではなく全部〝歯（<span style="text-combine-upright: all">H</span>）〟だ。
+
+さらに、タイトルロゴ枠の三ミリほど下に、薄く細い鉛筆の線が囲み罫の右端から左端まで横に引かれている。広告のメインとなる特集、評論、連載のグループの文字は頭揃えに一直線に揃えるレイアウトなのだが、それらを揃える線だ。この線にぶら下がるように、特集タイトルやら記事名から筆者名がすこし濃い太めの鉛筆で書かれている。
+
+ここで注目なのは、この揃える線上の、それぞれの文字の上端と縦の中心線が直交するポイントに、赤ペンで一つ一つ小さな丸が打たれていることだ。その上で、揃える線上に並んだ赤丸同士の間隔が、やはり赤ペンの矢印と数字によって指定されている。
+
+結果として、たとえば囲み罫右端と特集タイトルとの間隔、そして特集タイトルとその左隣の記事名との間隔、さらに記事名とその左隣の筆者名との間隔、さらにその左隣の二番目の記事名との間隔……という具合に、すべての行と行の間隔が指定されているのだ。
+
+以前、村西くんは〝行間は行と行の間隔〟と説明してくれた。しかし佐野さんの指定方法は、同じ行と行の間隔を表すのでも、村石くんのとはかなり考え方が違う、たぶんより高度な方法なのだろう。
+
+なるほど、こんな風にして一つ一つ細かく位置を指定することで、切り貼りなしの版下いらずの写植が打てるのだな。しかし、これは超高難度のウルトラ<span style="text-combine-upright: all">C</span>だ。なんといっても、全体が網の目のように入り組んでいるから、どこか一ヵ所の位置を計算ミスするだけで全体が狂ってしまうだろう。佐野さんってスゴイ……。
+
+「ああ、それ佐野さんの〝組み打ち〟でしょ」
+
+その時、後ろから話しかけてきたのは、高校中退の山ちゃんだ。大きい図体に似合わず『別冊マーガレット』好きの彼は、佐野さんとは仲がよく、時々手ほどきを受けている。だから版下制作に関しては大先輩で、聞けば親切に教えてくれるのだ。
+
+「なにそれ？」
 
 
