@@ -51,15 +51,15 @@ lang: 'ja'
 
 そう言うと、開いた『<span style="text-combine-upright: all">P</span>』の本文の部分を指さすと言った。
 
-「この文字も筆者の原稿を写植で打ってもらったんだけど、写植屋さんが打つためには原稿だけではなく、それをどんな種類の文字で、どんなサイズで打つのかっていう〈写植指定〉が必要なんだ」
+「この文字も筆者の原稿を写植で打ってもらったんだけど、写植屋さんが打つためには原稿だけではなく、それをどんな種類の文字で、どんなサイズで打つのかっていう〝写植指定〟が必要なんだ」
 
 村西くんは机の一番上の長い引き出しを開けて、透明なプラスチック・フィルムを取り出して、私の前に置いた。なんだろうこれは、升目がびっしりと印刷されているが、よく見ると一行ごとに升目のサイズが異なっている。右端は米粒のように小さいが、左に行くほどだんだん大きくなっていき、左端は一円玉ほどの大きさだ。
 
 「これが級数表。写植の文字サイズとか行間を測るもの」
 
-見ると一行ごとの上端には、右の行から左の行へ〈<span style="text-combine-upright: all">7</span>〉〈<span style="text-combine-upright: all">8</span>〉〈<span style="text-combine-upright: all">9</span>〉〈<span style="text-combine-upright: all">10</span>〉〈</span><span style="text-combine-upright: all">11</span>〉……と番号が印刷されていて、その番号のすぐ下に同じサイズの升目がずらっと下端まで伸びている。番号の最初の方は順番に一つずつ増えていくが、途中から二つ飛ばし四つ飛ばしになり、最後の方は〈<span style="text-combine-upright: all">32</span>〉〈<span style="text-combine-upright: all">38</span>〉〈<span style="text-combine-upright: all">44</span>〉……となり、左端は〈<span style="text-combine-upright: all">62</span>〉だ。
+見ると一行ごとの上端には、右の行から左の行へ〝<span style="text-combine-upright: all">7</span>〟〝<span style="text-combine-upright: all">8</span>〟〝<span style="text-combine-upright: all">9</span>〟〝<span style="text-combine-upright: all">10</span>〟〝</span><span style="text-combine-upright: all">11</span>〟……と番号が印刷されていて、その番号のすぐ下に同じサイズの升目がずらっと下端まで伸びている。番号の最初の方は順番に一つずつ増えていくが、途中から二つ飛ばし四つ飛ばしになり、最後の方は〝<span style="text-combine-upright: all">32</span>〟〝<span style="text-combine-upright: all">38</span>〟〝<span style="text-combine-upright: all">44</span>〟……となり、左端は〝<span style="text-combine-upright: all">62</span>〟だ。
 
-「たとえば〈<span style="text-combine-upright: all">9</span>〉というのは九級、〈<span style="text-combine-upright: all">50</span>〉は五十級というサイズで、その横に並んでいる升目がそのサイズの原寸なんだ」
+「たとえば〝<span style="text-combine-upright: all">9</span>〟というのは九級、〝<span style="text-combine-upright: all">50</span>〟は五十級というサイズで、その横に並んでいる升目がそのサイズの原寸なんだ」
 
 そう言うと、村西くんは級数表を本文の上に当てた。しばらく級数表を両手で細かく動かした後、動かないように抑えながら言った。
 
@@ -69,15 +69,15 @@ lang: 'ja'
 
 「最初の一行目」
 
-言われて本文冒頭の行を見ると、本文の文字が級数表の升目の四角にまるで原稿用紙のようにぴたりと収まっている。升目の行の上には〈<span style="text-combine-upright: all">9</span>〉と書かれている。
+言われて本文冒頭の行を見ると、本文の文字が級数表の升目の四角にまるで原稿用紙のようにぴたりと収まっている。升目の行の上には〝<span style="text-combine-upright: all">9</span>〟と書かれている。
 
 「九級の升目の行にきっちり合っているでしょ。ところが……」
 
-村西くんは級数表を少し右にずらして、隣の〈<span style="text-combine-upright: all">10</span>〉の升目に一行目を合わせた。今度は行頭の文字は合っているが、行末に行くほど少しずつ升目と文字のずれが拡がってしまっている。
+村西くんは級数表を少し右にずらして、隣の〝<span style="text-combine-upright: all">10</span>〟の升目に一行目を合わせた。今度は行頭の文字は合っているが、行末に行くほど少しずつ升目と文字のずれが拡がってしまっている。
 
 「隣の十級の升目だとずれてしまう。だから、この文字のサイズは九級と分かるわけ。それだけじゃなくて字詰め、つまり一行あたりの文字数も測ることができるよ」
 
-そういうと、また一行目に九級の升目を合わせた。本当だ。縦に並んだ升目には、十文字ごとに〈<span style="text-combine-upright: all">10</span>〉〈<span style="text-combine-upright: all">20</span>〉〈<span style="text-combine-upright: all">30</span>〉……と数字が入っている。さらに五文字目、十五文字目、二十五文字目……と五文字分ずれた十文字ごとの升目に〈◉〉のマークが入っている。これらの目印を頼りにすれば、その行が何文字なのか簡単に測ることができるのか。
+そういうと、また一行目に九級の升目を合わせた。本当だ。縦に並んだ升目には、十文字ごとに〝<span style="text-combine-upright: all">10</span>〟〝<span style="text-combine-upright: all">20</span>〟〝<span style="text-combine-upright: all">30</span>〟……と数字が入っている。さらに五文字目、十五文字目、二十五文字目……と五文字分ずれた十文字ごとの升目に〝◉〟のマークが入っている。これらの目印を頼りにすれば、その行が何文字なのか簡単に測ることができるのか。
 
 「でも、級数と字詰めだけ指定しても、写植屋さんは写植を打てない。これを見て」
 
@@ -87,13 +87,13 @@ lang: 'ja'
 
 今度は各行の一文字目を横断するように級数表が当てられている。みると、文字のサイズより三段階大きい十二級の升目の中央に、行頭の一文字目がぴったり収まっている。しかも最初の行から最後の行まで全て見事に合っている。すごい、一枚の級数表でいろんなことができるんだな。
 
-「行と行の間隔を行間といい、単位は歯で表す。〈<span style="text-combine-upright: all">12</span>〉の升目に合っているから、この写植の行間は十二歯ということだね。つまり、級数表で文字のサイズや字詰めだけでなく、行間や行数も測れるんだ。ここで大事なのは……」
+「行と行の間隔を行間といい、単位は歯で表す。〝<span style="text-combine-upright: all">12</span>〟の升目に合っているから、この写植の行間は十二歯ということだね。つまり、級数表で文字のサイズや字詰めだけでなく、行間や行数も測れるんだ。ここで大事なのは……」
 
 そう言うと、村西くんはちょっと間を置いて言葉を継ぐ。
 
-「一歯は〇・二五ミリ、つまり一ミリのぴったり四分の一ということ。たとえば四歯は〈〇・二五×四〉だから一ミリ、十二歯は〈〇・二五×十二〉で三ミリちょうど。このようにミリは必ず歯で割り切れるんだ。ちなみに、級と歯は同じだけど、文字サイズを表す時だけ、歯ではなく級を使い、それ以外の行間とか字間、つまり文字と文字の間隔を指定する際は歯を使う」
+「一歯は〇・二五ミリ、つまり一ミリのぴったり四分の一ということ。たとえば四歯は〝〇・二五×四〟だから一ミリ、十二歯は〝〇・二五×十二〟で三ミリちょうど。このようにミリは必ず歯で割り切れるんだ。ちなみに、級と歯は同じだけど、文字サイズを表す時だけ、歯ではなく級を使い、それ以外の行間とか字間、つまり文字と文字の間隔を指定する際は歯を使う」
 
-ちょっと理解が追いつかない。でも村西くんって頭いいんだな。昔から算数の苦手な私には、とても真似できない。村西くんは私に『<span style="text-combine-upright: all">P</span>』と級数表を渡して言った。
+ちょっと話しに追いつけない。村西くんって頭いいんだな。昔から算数の苦手な私には、とても真似できない。村西くんは私に『<span style="text-combine-upright: all">P</span>』と級数表を渡して言った。
 
 「分かるかな。ちょっと自分でも測ってみて。テンとかマルがあるとずれちゃうから、そういうのがなるべくない行を探すといいよ。それから見出しは字間を詰める場合もあるから、級数表でうまく測れないことがある。本文なら級数と字間は同じだから、本文を測るといい」
 
@@ -111,11 +111,11 @@ lang: 'ja'
 
 「これは写植の元になった原稿。ほら、原稿用紙の余白を見て。赤鉛筆で何か書いてあるでしょ。これは僕が書き込んだ写植指定で、書体、級数、行間、字詰めなんかを指定してあるの」
 
-原稿用紙の何も書かれていない部分には、大ぶりの赤鉛筆の字で〈<span style="text-combine-upright: all">M</span>、<span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">Q</span><span style="text-combine-upright: all">12</span><span style="text-combine-upright: all">H</span>、<span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">L</span>＝<span style="text-combine-upright: all">18</span><span style="text-combine-upright: all">W</span>、バラ打ち〉と殴り書きされていた。なんだこの暗号は。
+原稿用紙の何も書かれていない部分には、大ぶりの赤鉛筆の字で〝<span style="text-combine-upright: all">M</span>、<span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">Q</span><span style="text-combine-upright: all">12</span><span style="text-combine-upright: all">H</span>、<span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">L</span>＝<span style="text-combine-upright: all">18</span><span style="text-combine-upright: all">W</span>、バラ打ち〟と殴り書きされていた。なんだこの暗号は。
 
-「この〈<span style="text-combine-upright: all">M</span>〉というのが書体で明朝体の〈<span style="text-combine-upright: all">M</span>〉。〈<span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">Q</span>〉というのは文字サイズが九級ということで、級を早く書くために〈</span><span style="text-combine-upright: all">Q</span>〉にしている。〈<span style="text-combine-upright: all">12</span><span style="text-combine-upright: all">H</span>〉というのは行間十二歯で、やはり歯を早く書くために〈</span><span style="text-combine-upright: all">H</span>〉にしているんだ。〈<span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">L</span>＝<span style="text-combine-upright: all">18</span><span style="text-combine-upright: all">W</span>〉というのは〈<span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">L</span>＝〉が一行当たりという意味で、〈<span style="text-combine-upright: all">18</span><span style="text-combine-upright: all">W</span>〉が十八文字、つまり〈一行十八文字の字詰めで打つ〉という意味。ここで字間を指定していないのは、とくに指定しなければ級数と同じと見なされるからなんだ。つまり、書体、級数、行間、字詰めの四つさえ指定すれば、写植屋さんは写植を打ってくれる」
+「この〝<span style="text-combine-upright: all">M</span>〟というのが書体で明朝体の〝<span style="text-combine-upright: all">M</span>〟。〝<span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">Q</span>〟というのは文字サイズが九級ということで、級を早く書くために〝</span><span style="text-combine-upright: all">Q</span>〟にしている。〝<span style="text-combine-upright: all">12</span><span style="text-combine-upright: all">H</span>〟というのは行間十二歯で、やはり歯を早く書くために〝</span><span style="text-combine-upright: all">H</span>〟にしているんだ。〝<span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">L</span>＝<span style="text-combine-upright: all">18</span><span style="text-combine-upright: all">W</span>〟というのは〝<span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">L</span>＝〟が一行当たりという意味で、〝<span style="text-combine-upright: all">18</span><span style="text-combine-upright: all">W</span>〟が十八文字、つまり〝一行十八文字の字詰めで打つ〟という意味。ここで字間を指定していないのは、とくに指定しなければ級数と同じと見なされるからなんだ。つまり、書体、級数、行間、字詰めの四つさえ指定すれば、写植屋さんは写植を打ってくれる」
 
-「〈バラ打ち〉っていうのは？」
+「〝バラ打ち〟っていうのは？」
 
 「タイトルとか本文など、種類ごとにバラバラに打つということ。まあ、今はあまり気にしなくていいよ。ついでに言うと、うちは情報とかコラムみたいに短い文章は<span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">Q</span><span style="text-combine-upright: all">12</span><span style="text-combine-upright: all">H</span>、評論みたいに長めの文章は<span style="text-combine-upright: all">10</span><span style="text-combine-upright: all">Q</span><span style="text-combine-upright: all">15</span><span style="text-combine-upright: all">H</span>だからね」
 
@@ -139,11 +139,11 @@ lang: 'ja'
 
 「いえ、初めてです」
 
-「新大久保の駅の近くよ。〈地図帳〉から地図をコピーして持って行ってね。はいこれ」
+「新大久保の駅の近くよ。〝地図帳〟から地図をコピーして持って行ってね。はいこれ」
 
 差し出された大きめの茶封筒は、何回も写植屋さんとの間を往復している使い古しだ。表面には原稿用紙を裏返しにしてセロハンテープで留められており、「駒津写植さま　広告原稿在中　佐野」と端正な字で横書きされていた。
 
-私は佐野さんから茶封筒を受け取ると、壁に掛けてある「お使いバッグ」と呼ばれている白いキャンバス地の共用バッグをはずして、その中に入れた。つぎに編集室の真ん中の共有机に置かれた小さな本棚から、一冊のクリアポケットファイルを抜きだす。これが編集部特製の〈地図帳〉で、透明のポケット一ページずつには、写植屋さんだけでなく出版社などの取材先、かと思えば出前のとれる定食屋、あるいはカラーポジフィルムの現像所など雑多な地図が入っている。
+私は佐野さんから茶封筒を受け取ると、壁に掛けてある「お使いバッグ」と呼ばれている白いキャンバス地の共用バッグをはずして、その中に入れた。つぎに編集室の真ん中の共有机に置かれた小さな本棚から、一冊のクリアポケットファイルを抜きだす。これが編集部特製の〝地図帳〟で、透明のポケット一ページずつには、写植屋さんだけでなく出版社などの取材先、かと思えば出前のとれる定食屋、あるいはカラーポジフィルムの現像所など雑多な地図が入っている。
 
 その中から、私は「駒津写植」と書かれた地図を探し出すと、コピー機で複写し、四つ折りにしてズボンのポケットにしまった。そして壁に掛けられたハンガーから自分のダッフルコートをはずして着込み、お使いバッグを肩にかけると、共有机の引き出しから自転車のカギを取り出した。
 
