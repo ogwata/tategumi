@@ -233,12 +233,14 @@ lang: 'ja'
 
 「うわあ、きれい」
 
-そのレイアウト用紙には、すこし濃い太めの鉛筆により文字と囲み罫が、打ち上がった写植と同じサイズ、同じ配置で書かれていた。その上で水色、ピンク、緑色など、色とりどりのカラーの細字サインペンを使い、丁寧な字で文字サイズなどの写植指定が書き込まれている。
+そのレイアウト用紙には、すこし濃い太めの鉛筆により文字と囲み罫が、打ち上がった写植と同じサイズ、同じ配置で書かれていた。その上で色とりどりのカラーの細字サインペンにより、たとえば記事のタイトルは水色で、著者名はピンクで、出版社名とその住所は緑色で丸く囲んでいる。
 
-見ると右上隅には、凡例のように〝水色……<span style="text-combine-upright: all">Y</span><span style="text-combine-upright: all">S</span><span style="text-combine-upright: all">E</span><span style="text-combine-upright: all">G</span>（とくに指示なきは<span style="text-combine-upright: all">28</span><span style="text-combine-upright: all">Q</span>）〟、〝ピンク……<span style="text-combine-upright: all">M</span><span style="text-combine-upright: all">Y</span><span style="text-combine-upright: all">E</span><span style="text-combine-upright: all">M</span>（〃<span style="text-combine-upright: all">13</span><span style="text-combine-upright: all">Q</span>）〟、〝緑色……<span style="text-combine-upright: all">M</span><span style="text-combine-upright: all">G</span>-<span style="text-combine-upright: all">K</span><span style="text-combine-upright: all">L</span>（〃<span style="text-combine-upright: all">11</span><span style="text-combine-upright: all">Q</span>）〟、〝青色……<span style="text-combine-upright: all">M</span><span style="text-combine-upright: all">M</span>-<span style="text-combine-upright: all">O</span><span style="text-combine-upright: all">K</span><span style="text-combine-upright: all">L</span>（〃<span style="text-combine-upright: all">11</span><span style="text-combine-upright: all">Q</span>）〟などと、それぞれの色の細字サインペンで指定されている。
+見ると右上隅には、凡例のように横書きで〝水色……<span style="text-combine-upright: all">Y</span><span style="text-combine-upright: all">S</span><span style="text-combine-upright: all">E</span><span style="text-combine-upright: all">G</span>（とくに指示なきは<span style="text-combine-upright: all">28</span><span style="text-combine-upright: all">Q</span>）〟、〝ピンク……<span style="text-combine-upright: all">M</span><span style="text-combine-upright: all">Y</span><span style="text-combine-upright: all">E</span><span style="text-combine-upright: all">M</span>（〃<span style="text-combine-upright: all">13</span><span style="text-combine-upright: all">Q</span>）〟、〝緑色……<span style="text-combine-upright: all">M</span><span style="text-combine-upright: all">G</span>-<span style="text-combine-upright: all">K</span><span style="text-combine-upright: all">L</span>（〃<span style="text-combine-upright: all">11</span><span style="text-combine-upright: all">Q</span>）〟、〝青色……<span style="text-combine-upright: all">M</span><span style="text-combine-upright: all">M</span>-<span style="text-combine-upright: all">O</span><span style="text-combine-upright: all">K</span><span style="text-combine-upright: all">L</span>（〃<span style="text-combine-upright: all">11</span><span style="text-combine-upright: all">Q</span>）〟などと、それぞれの色の細字サインペンで指定されている。
 
-私にはそれぞれの略号の意味までは分からない。しかしたぶんアルファベットは書体名、カッコ内は基本となる文字サイズなのだろう（もちろん「〃」は「上に同じ」）。つまり凡例が意味するのは、書体と基本の文字サイズごとに固有の色で指定していますよ、ということなのだ。つまりこれを打つ写植屋さんは、水色で指定されていればこの書体と文字サイズ、ピンクで指定されていればこの書体と文字サイズと、色を見るだけで書体名と文字サイズが分かるようになっている。そして、それ以外の文字サイズ、ツメや揃えなどは、個々の文字ごとに赤の引出線によりまとめて指定されている。これにより指定の文字数が最低限ですんでしまう。ふーん、きれいなだけじゃなく、ロジカルなんだな。
+私にはそれぞれの略号の意味までは分からない。しかしたぶんアルファベットは書体名であり、カッコ内は基本となる文字サイズなのだ（もちろん「〃」は「上に同じ」）。つまりこの凡例が意味するのは、書体と基本の文字サイズごとに固有の色で指定していますよ、ということなのだ。
 
-しかし、このレイアウトがすごいのは、どうやらそれだけではない。よく見ると、
+このレイアウトにしたがって写植を打つ人には、水色で指定されていればこの書体と文字サイズ、ピンクで指定されていればこの書体と文字サイズと、色を見ただけで書体名と文字サイズが分かるようになっている。そして、基本外の文字サイズ、ツメや揃えなどは、個々の文字ごとに赤の引出線によって指定されている。これにより最低限の文字数で指定がすんでしまう。つまり、シンプルで分かりやすい。ふーん、きれいなだけじゃなく、機能的なんだな。
+
+しかし、このレイアウトの見所は、どうやらそれだけではないようだ。よく見ると、
 
 
