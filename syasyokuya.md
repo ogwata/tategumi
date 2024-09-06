@@ -117,7 +117,7 @@ lang: 'ja'
 
 「〝バラ打ち〟っていうのは？」
 
-「タイトルとか本文など、種類ごとにバラバラに打つということ。まあ、今はあまり気にしなくていいよ。ついでに言うと、うちは情報とかコラムみたいに短い文章は<span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">Q</span><span style="text-combine-upright: all">12</span><span style="text-combine-upright: all">H</span>、評論みたいに長めの文章は<span style="text-combine-upright: all">10</span><span style="text-combine-upright: all">Q</span><span style="text-combine-upright: all">15</span><span style="text-combine-upright: all">H</span>だからね」
+「タイトルとか本文など、かたまりごとにバラバラに打つということ。まあ、今はあまり気にしなくていいよ。ついでに言うと、うちは情報とかコラムみたいに短い文章は<span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">Q</span><span style="text-combine-upright: all">12</span><span style="text-combine-upright: all">H</span>、評論みたいに長めの文章は<span style="text-combine-upright: all">10</span><span style="text-combine-upright: all">Q</span><span style="text-combine-upright: all">15</span><span style="text-combine-upright: all">H</span>だからね」
 
 「キュウキュウ・ジュウニハとジュッキュー・ジュウゴハ……」
 
@@ -171,7 +171,7 @@ lang: 'ja'
 
 そして写植機の正面左上には誇らしげに円形のバッジが銀色に輝いていて、よくみると「<span style="text-combine-upright: all">P</span><span style="text-combine-upright: all">A</span><span style="text-combine-upright: all">V</span><span style="text-combine-upright: all">O</span>-<span style="text-combine-upright: all">J</span><span style="text-combine-upright: all">L</span>」と刻印されている。パボ・ジェイエルと読むのだろうか、聞き慣れない語感だが、それがこの写植機の機種名らしい。
 
-一つ私に分かったことは、この巨大な機械はとてつもなく微細で精密な操作ができ、それを文字通り手足のように駆使して、駒津さんは写植を打っているということだった。
+一つ私に分かったことは、このでっかい機械はとてつもなく微細で精密な操作が可能で、それを文字通り手足のように駆使して、駒津さんは写植を打っているということだった。
 
 写植機から目をはずして部屋を見回すと、天井が高く白い壁が目立つ十畳ほどのワンルームだ。建物は古くさいが、室内はきれいに掃除されている。部屋の四分の一くらいを占める写植機の手前には小さな机と椅子があり、机の上には緑色のゴムマットが敷かれている。濁った緑色の写植糊の丸缶、それから烏口、シャープペンシル、カッターなどが刺さったペン立てもあるから、ここで版下制作や写植の切り貼りをしているようだ。
 

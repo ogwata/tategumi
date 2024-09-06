@@ -180,7 +180,7 @@ p {
   margin: 0;
   text-indent: 1em;
   text-spacing-trim: trim-start;
-  hanging-punctuation: first;
+  hanging-punctuation: first allow-end;
   /* font-family: "Open Sans", "こぶりなゴシック StdN W1", "UD デジタル 教科書体 N-B", "Noto Sans JP"; */
 }
 
