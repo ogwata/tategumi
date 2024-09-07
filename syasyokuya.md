@@ -203,7 +203,7 @@ lang: 'ja'
 
 「ひさしぶりに写植らしい指定を見たな」
 
-それ、どういう意味ですか、という質問は呑み込んだ。私に向かって言ったようには思えなかったし、ヘタなことを聞くと怒られそうだ。私は駒津さんが機嫌のよいうちにお邪魔することにして、小さな声で「じゃあ失礼します」と断って駒津さんに背を向けた。
+それ、どういう意味ですか、という質問は呑み込んだ。私に向かって言ったようには思えなかったし、ヘタなことを聞くと怒られそうだ。私は駒津さんが機嫌のよいうちに失礼することにして、小さな声で「じゃあ失礼します」と断って駒津さんに背を向けた。
 
 ### <span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">8</span><span style="text-combine-upright: all">1</span>年<span style="text-combine-upright: all">2</span>月<span style="text-combine-upright: all">4</span>日 唐川ビル『<span style="text-combine-upright: all">P</span>』編集室
 
