@@ -23,7 +23,7 @@ lang: 'ja'
 
 ここは西新宿の外れにある唐川ビル。青梅街道からすこし入った裏通りにある、ビルとは名ばかりのモルタル造の薄っぺらな二階建。その一階にマンガ情報誌『<span style="text-combine-upright: all">P</span>』編集部はあった。
 
-この頃、ミニコミ誌は黄金時代を迎えていた。『話の特集』『ビックリハウス』『本の雑誌』『奇想天外』といった、零細出版社が刊行する比較的部数の少ない、しかし元気いっぱいで多種多様なミニコミ誌が、若い読者を獲得するために個性を競い合っていた。
+一九八〇年代は、のちに〝雑誌の時代〟と呼ばれるようになる。実際、一九八〇年だけで二百三十誌以上もの雑誌が創刊されている。中でも異彩を放つのは、零細出版社が刊行する元気いっぱいのミニコミ誌だ。『話の特集』『ぴあ』『ビックリハウス』『本の雑誌』『奇想天外』といった雑誌が、若い読者を獲得するため、互いに個性を競い合っていた。
 
 『<span style="text-combine-upright: all">P</span>』もそんな雑誌の一つで、今注目すべきマンガ家やマンガ作品をいち早く取り上げて教えてくれた。たとえば倉多江美、樹村みのり、大友克洋、高野文子といった、『少年ジャンプ』だけ読んでいたら一生知らなかっただろう作家の存在を、まだ十代だった私に教えてくれたのは『<span style="text-combine-upright: all">P</span>』だった。ミニコミ誌にはその雑誌を読まなければ知ることができない、特有の情報が満ちあふれていた。それだけではない。ページを開くと読者の投稿がたくさん掲載されていて、まるで深夜ラジオのように見知らぬ同世代の心中を覗けるのも、ミニコミ誌の面白さの一つだった。
 
@@ -125,7 +125,7 @@ lang: 'ja'
 
 初めて聞く珍しい言葉の響き、まるで呪文みたいだ。そうか、世界の秘密の扉を開ける呪文なんだな。私は忘れないように、頭の中でキュウキュウ・ジュウニハ、ジュッキュー・ジュウゴハと繰り返した。
 
-### <span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">8</span><span style="text-combine-upright: all">1</span>年<span style="text-combine-upright: all">2</span>月<span style="text-combine-upright: all">2</span>日 唐川ビル『<span style="text-combine-upright: all">P</span>』編集室
+### <span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">8</span><span style="text-combine-upright: all">1</span>年<span style="text-combine-upright: all">2</span>月<span style="text-combine-upright: all">2</span>日、唐川ビル『<span style="text-combine-upright: all">P</span>』編集室
 
 「小形くん、悪いけどお使い頼める<span style="text-combine-upright: all">?</span>」
 
@@ -193,7 +193,7 @@ lang: 'ja'
 
 駒津さんは「現像しちゃうから」と言っていた。あの黒いカーテンの奥は洗面所を改造した暗室なのだ。写植機から引き抜いた六角柱のバッグの中には印画紙が仕込まれていて、そこに駒津さんが写真の原理により印字する。その印画紙を暗室で現像しているのだろう。
 
-その時、駒津さんがガチャリと暗室の中からドアを開け放った。狭い室内では暗室特有の赤色灯が点いたままなのが見える。カーテンを持ち上げて脇のフックに引っかけると、駒津さんはドアを開けたまま暗室の中に戻り、部屋の中に高く渡らせた針金に、洗濯ばさみで手早く印画紙を吊していく。なるほど、定着液を水で洗い落とした後、こうして印画紙を干すのか。友達がやっていた写真の焼き付けと一緒だな。駒津さんは赤色灯をパチンと消して暗室を出ると、ようやく私を見て言った。
+その時、駒津さんがガチャリと暗室の中からドアを開け放った。狭い室内では暗室特有の赤色灯が点いたままなのが見える。カーテンを持ち上げて脇のフックに引っかけると、駒津さんはドアを開けたまま暗室の中に戻り、部屋の中に高く渡らせた針金に、洗濯ばさみで手早く印画紙を吊していく。なるほど、定着液を水で洗い落とした後、こうして印画紙を干すのか。友達がやっていた写真の焼き付けと一緒だな。駒津さんはタオルを首にかけながら赤色灯をパチンと消して暗室を出ると、ようやく私を見て言った。
 
 「待たせたね」
 
@@ -201,13 +201,13 @@ lang: 'ja'
 
 「これ、佐野さんの原稿です」
 
-駒津さんは首からぶら下げたタオルを外して手を拭きながら、小声で「佐野さんか」と言って私から封筒を受け取ると、立ったまま中から何枚かの原稿を取り出した。あまり興味なさそうに手早く原稿を確かめていくが、途中で「おや<span style="text-combine-upright: all">?</span>」という感じで手を止めると、一枚の原稿をじいっと凝視する。しばらくするとクククとうれしそうに笑いながら、誰に言うともなく駒津さんは呟いた。
+駒津さんは首からタオルを外して手を拭きながら、小声で「佐野さんか」と言って私から封筒を受け取ると、立ったまま中から何枚かの原稿を取り出した。あまり興味なさそうに手早く原稿を確かめていくが、途中で「おや<span style="text-combine-upright: all">?</span>」という感じで手を止めると、一枚の原稿をじいっと凝視する。しばらくするとクククをうれしそうに笑いを嚙み殺しながら、誰に言うともなく駒津さんは呟いた。
 
 「ひさしぶりに写植らしい指定を見たな」
 
 それ、どういう意味ですか、という質問は呑み込んだ。私に向かって言ったようには思えなかったし、ヘタなことを聞くと怒られそうだ。私は駒津さんが機嫌のよいうちに帰ることにして、小さな声で「じゃあ失礼します」と断って駒津さんに背を向けた。
 
-### <span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">8</span><span style="text-combine-upright: all">1</span>年<span style="text-combine-upright: all">2</span>月<span style="text-combine-upright: all">4</span>日 唐川ビル『<span style="text-combine-upright: all">P</span>』編集室
+### <span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">8</span><span style="text-combine-upright: all">1</span>年<span style="text-combine-upright: all">2</span>月<span style="text-combine-upright: all">4</span>日、唐川ビル『<span style="text-combine-upright: all">P</span>』編集室
 
 次の私の出勤日は、駒津写植に原稿を届けた二日後だった。午前十一時頃、「こんちはー」とドアを開けたが、まだ編集室には誰もいなかった。予想通りだ。私は共有机の上に置かれた、<span style="text-combine-upright: all">B</span><span style="text-combine-upright: all">4</span>判ほどの浅いプラスチック製のカゴに近づいた。
 
@@ -221,7 +221,7 @@ lang: 'ja'
 
 その写植はページ横半分のサイズの、『<span style="text-combine-upright: all">P</span>』とは全く別の雑誌広告のようだった。全体が太い罫線で囲まれていて、中央上部の一番目立つところには、細い罫線で囲まれた中身が空白の四角が置かれている。おそらく印刷入稿時にはここに雑誌のロゴが貼り込まれるのだろうが、今はこれが何という雑誌の広告なのか分からない。
 
-ロゴが入るはずの場所の左脇には横書きで少し大きく月号と発売日が、右脇にはこれも横書きで小さく、聞いたことのない版元名と住所が入っている。これらの下には縦書きで、最も目立つサイズで記事のタイトルと、それより小振りに筆者名が、それぞれ特集、評論、連載の三つのグループに分かれ、頭揃えで並んでいる。
+ロゴが入るはずの場所の左脇には横書きで少し大きく月号と発売日が、右脇にはこれも横書きで小さく、聞いたことのない版元名と住所が入っている。これらの下には縦書きで、最も目立つサイズで記事のタイトルと、それより小振りに筆者名が、それぞれ特集、評論、連載の三つのグループに分かれ、上揃えで並んでいる。
 
 それら広告にならんだ記事のタイトルからは、研究者が読むような学会誌がイメージされる。そういえば佐野さんは、『<span style="text-combine-upright: all">P</span>』の執筆者でもあった小説家に推薦されて、お堅いので有名なある国文学専門誌の表紙デザインを担当することになったと聞いた。この写植はそうした佐野さんの副業の一つなのだろう。
 
@@ -237,9 +237,9 @@ lang: 'ja'
 
 そのレイアウト用紙には、すこし濃い太めの鉛筆により文字と囲み罫が、打ち上がった写植と同じサイズ、同じ配置で手書きされていた。その上で色とりどりのカラーの細字サインペンにより、たとえば記事のタイトルは水色で、筆者名はピンクで、出版社名とその住所は緑色で丸く囲んである。
 
-見ると右上隅には、凡例のように横書きで〝水色……<span style="text-combine-upright: all">Y</span><span style="text-combine-upright: all">S</span><span style="text-combine-upright: all">E</span><span style="text-combine-upright: all">G</span>（とくに指示なきは<span style="text-combine-upright: all">28</span><span style="text-combine-upright: all">Q</span>）〟、〝ピンク……<span style="text-combine-upright: all">M</span><span style="text-combine-upright: all">Y</span><span style="text-combine-upright: all">E</span><span style="text-combine-upright: all">M</span>（〃<span style="text-combine-upright: all">18</span><span style="text-combine-upright: all">Q</span>）〟、〝緑色……<span style="text-combine-upright: all">M</span><span style="text-combine-upright: all">G</span>-<span style="text-combine-upright: all">K</span><span style="text-combine-upright: all">L</span>（〃<span style="text-combine-upright: all">11</span><span style="text-combine-upright: all">Q</span>）〟、〝青色……<span style="text-combine-upright: all">M</span><span style="text-combine-upright: all">M</span>-<span style="text-combine-upright: all">O</span><span style="text-combine-upright: all">K</span><span style="text-combine-upright: all">L</span>（〃<span style="text-combine-upright: all">11</span><span style="text-combine-upright: all">Q</span>）〟などと、それぞれの色の細字サインペンで指定されている。
+見ると右上隅には、凡例のように横書きで〝水色……<span style="text-combine-upright: all">Y</span><span style="text-combine-upright: all">S</span><span style="text-combine-upright: all">E</span><span style="text-combine-upright: all">G</span>（とくに指示なきは<span style="text-combine-upright: all">28</span><span style="text-combine-upright: all">Q</span>）〟、〝ピンク……<span style="text-combine-upright: all">M</span><span style="text-combine-upright: all">Y</span><span style="text-combine-upright: all">E</span><span style="text-combine-upright: all">M</span>（同上<span style="text-combine-upright: all">18</span><span style="text-combine-upright: all">Q</span>）〟、〝緑色……<span style="text-combine-upright: all">M</span><span style="text-combine-upright: all">G</span>-<span style="text-combine-upright: all">K</span><span style="text-combine-upright: all">L</span>（同上<span style="text-combine-upright: all">11</span><span style="text-combine-upright: all">Q</span>）〟、〝青色……<span style="text-combine-upright: all">M</span><span style="text-combine-upright: all">M</span>-<span style="text-combine-upright: all">O</span><span style="text-combine-upright: all">K</span><span style="text-combine-upright: all">L</span>（同上<span style="text-combine-upright: all">11</span><span style="text-combine-upright: all">Q</span>）〟などと、それぞれの色の細字サインペンで指定されている。
 
-私にはそれぞれの略号の意味までは分からない。しかしたぶんアルファベットは書体名であり、カッコ内は基本となる文字サイズなのだ（もちろん〝〃〟は〝上に同じ〟）。つまりこの凡例が意味するのは、それぞれ固有の色で書体と基本の文字サイズが指定してありますよ、ということなのだ。
+私にはそれぞれの略号の意味までは分からない。しかしたぶんアルファベットは書体名であり、カッコ内は基本となる文字サイズなのだ。つまりこの凡例が意味するのは、それぞれ固有の色で書体と基本の文字サイズが指定してありますよ、ということなのだ。
 
 このレイアウトにしたがって写植を打つ人は、水色で囲まれた文字はこの書体と文字サイズ、ピンクで囲まれた文字はこの書体と文字サイズと、色を見ただけで書体名と文字サイズが分かるだろう。
 
@@ -247,9 +247,9 @@ lang: 'ja'
 
 しかし、このレイアウトの見所はまだあるようだ。よく見ると、囲み罫の縦横のサイズは当然として、たとえばタイトルロゴ枠の縦横のサイズ、そして囲み罫上端とタイトルロゴ枠上端との間隔、同じく囲み罫上端と版元名・住所との間隔など、囲み罫の四辺と個々の枠・文字との間隔が、赤ペンで書かれた矢印と数字により事細かく指定されている。ちなみに、単位はミリではなく全部〝歯（<span style="text-combine-upright: all">H</span>）〟だ。
 
-さらに、タイトルロゴ枠の三ミリほど下に、薄く細い鉛筆の線が囲み罫の右端から左端まで横に引かれている。広告のメインとなる特集、評論、連載のグループの文字は頭揃えに一直線に揃えるレイアウトなのだが、それらを揃える線だ。この線にぶら下がるように、特集タイトルやら記事名やら筆者名やらが、すこし濃い太めの鉛筆で書かれている。
+さらに、タイトルロゴ枠の三ミリほど下に、薄く細い鉛筆の線が囲み罫の右端から左端まで横に引かれている。広告のメインとなる特集、評論、連載のグループの文字は上揃えに一直線に揃えるレイアウトなのだが、それらを揃える線だ。この線にぶら下がるように、特集タイトルやら記事名やら筆者名やらが、すこし濃い太めの鉛筆で書かれている。
 
-ここで注目なのは、この揃える線上の、それぞれの文字の上端と縦の中心線が直交するポイントに、赤ペンで一つ一つ小さな丸が打たれていることだ。つまり、揃える線上にはたくさんの赤丸が並んでいる。そして、その少し上に赤ペンの矢印と数字によって、赤丸同士の間隔が指定されている。
+ここで注目なのは、この揃える線上の、それぞれの文字の上端と縦の中心線が直交するポイントに、赤ペンで一つ一つ小さな丸が打たれていることだ。つまり、揃える線上には行の数だけ赤丸が並んでいる。そして、その少し上に赤ペンの矢印と数字によって、赤丸同士の間隔が指定されている。
 
 結果として、たとえば囲み罫右端と特集タイトルとの間隔、そして特集タイトルとその左隣の記事名との間隔、さらに記事名とその左隣の筆者名との間隔、さらにその左隣の二番目の記事名との間隔……という具合に、すべての行と行の間隔が指定されているのだ。
 
@@ -267,16 +267,16 @@ lang: 'ja'
 
 「〝バラ打ち〟の反対で、レイアウト通りにぴったり組んで打つこと。小形くんはいつもどんな風に版下を作ってるの？」
 
-「どんな風にって……そうだな、まずお手本のページに従って本文やタイトル、リードなんかの原稿を写植指定する。それで写植があがってきたら、うまくページに収まるようなカットを選んで、お手本のページを参考にしながらタイトルや本文の写植を貼り込んでいく……って感じかな」
+「どんな風にって……そうだな、まずお手本のページに従って本文やタイトル、リードなんかの原稿を写植指定する。それで写植があがってきたら、お手本のページを参考にしながらカットを縮小コピーして、タイトルや本文の写植と一緒にうまく貼り込んでいく……って感じかな」
 
 「そうそう、つまり僕たちはみんな、版下を作りながらレイアウトをしているんだ。だから、写植もタイトルやリード、本文ごとにバラバラに打ってもらう。これが〝バラ打ち〟。ところがこの佐野さんのレイアウトは違うんだよ。あらかじめ全てレイアウトを完成させておいて、それにしたがって、レイアウト通りに打ってもらうように写植指定するんだ。これが〝組み打ち〟。たぶん編集部の誰も真似できないよね」
 
-そうか、駒津さんが言っていた〝写植らしい指定〟って、〝組み打ち〟のことだったんだ<span style="text-combine-upright: all">!</span>　そしてたぶん、駒津さんは私たちがいつも発注してくる〝バラ打ち〟に、いささかうんざりしていたのだろう。そこに佐野さんが〝組み打ち〟を発注してきた。駒津さんが喜んだのは、そういうことじゃないだろうか。
+そうか、駒津さんが言っていた〝写植らしい指定〟って、〝組み打ち〟のことだったんだ<span style="text-combine-upright: all">!</span>　そしてたぶん、駒津さんは私たちが発注してくる簡単な〝バラ打ち〟にやり甲斐を感じず、いささかうんざりしていたのだろう。そこに佐野さんが〝組み打ち〟を発注してきた。駒津さんが喜んだのは、そういうことじゃないだろうか。
 
 ちょっと待て、ということは、私たちはいつも駒津さんをうんざりさせるような、レベルの低い本作りをしていたということじゃないか。
 
 つい三週間前、たしかに私は村西くんから〝世界の秘密の扉を開ける呪文〟を教えてもらったと思った。しかしその呪文は、つまるところ駒津さんをうんざりさせる程度のものでしかなく、その先にもっともっと高度な、開けるべき〝秘密の扉〟が待っていたのだ。
 
-いやいやいや、ひょっとして。げんなりしながら私は思った。その高度な〝秘密の扉〟の向こうには、さらに高度な別の〝秘密の扉〟が待っていて、その向こうにはまた更に……。
+いやいやいや、ひょっとして。げんなりしながら私は思った。その高度な〝秘密の扉〟の向こうには、もっと高度な別の〝秘密の扉〟が待っていて、その向こうにはまた更に……。
 
 へなへなとその場に座り込みそうになるのを、辛うじてこらえる私を、山ちゃんは不思議そうに見つめていた。
