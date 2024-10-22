@@ -1,7 +1,7 @@
 ---
 link:
   - rel: 'stylesheet'
-    href: 'css/main2.css'
+    href: 'css/main.css'
 lang: 'ja'
 ---
 
