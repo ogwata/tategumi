@@ -93,7 +93,6 @@ h2 {
 }
 h2::before {
   content: "";
-  /* background: url("img/_c_chojuori0021_s256_chojuori0021_3.png"); */
   background-size: contain;
   background-repeat: no-repeat;
   block-size: 24mm;
@@ -116,7 +115,6 @@ h2::before {
 
 /* 背景画像 */
 /* background-color: #88ddff;
-  background-image: url("img/R2_cssbk_smp_h2bg.png");
   background-size: var(--page-body-width);
   background-repeat: no-repeat;
   inline-size: 16mm;
@@ -139,14 +137,11 @@ h3 {
 
   /* background-color: #88ddff; */
   /* 背景画像 */
-  /* background-image: url("img/R3_cssbk_smp_h3bg.png");
   background-size: cover; */
 }
 
 h3::before {
   content: "";
-  /* background: url(img/_c_choju24_0001_s1024_choju24_0001_7.png); */
-  /* background: url(img/ai_carrot.png); */
   background-size: contain;
   background-repeat: no-repeat;
   block-size: 2rlh;
