@@ -7,8 +7,6 @@ lang: 'ja'
 
 # <span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">8</span><span style="text-combine-upright: all">1</span>年の写植機
 
-## <span style="text-combine-upright: all">1</span><span style="text-combine-upright: all">9</span><span style="text-combine-upright: all">8</span><span style="text-combine-upright: all">1</span>年の写植機
-
 <div class="author">
 
 小形克宏

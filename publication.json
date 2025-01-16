@@ -1,0 +1,20 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "1981年の写植機",
+  "author": "小形克宏",
+  "inLanguage": "ja",
+  "dateModified": "2025-01-16T13:33:20.470Z",
+  "readingOrder": [
+    {
+      "url": "syasyokuya.html",
+      "name": "1981年の写植機"
+    }
+  ],
+  "resources": [],
+  "links": []
+}
